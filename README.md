@@ -107,8 +107,9 @@ add a line break after each link.
 - Gradual Typing Embedded Securely in JavaScript.   
   K. Bhargavan, G. Bierman, J. Chen, C. Fournet, A. Rastogi, P. Strub, N. Swamy
 
-- Fair Reactive Programming.   
-  A. Cave, F. Ferreira, P. Panangaden, B. Pientka
+- Fair Reactive Programming. 
+  ([preprint](http://cs.mcgill.ca/~acave1/papers/fair-reactive.pdf))
+  [A. Cave](http://cs.mcgill.ca/~acave1), [F. Ferreira](http://cs.mcgill.ca/~fferre8/), [P. Panangaden](http://www.cs.mcgill.ca/~prakash/), [B. Pientka](http://www.cs.mcgill.ca/~bpientka/)
 
 - Freeze After Handling: Quasi-Deterministic Parallel Programming with LVars.   
   ([preprint](http://www.cs.indiana.edu/~lkuper/papers/2013-lvish-draft.pdf))
