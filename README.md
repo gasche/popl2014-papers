@@ -110,9 +110,9 @@ add a line break after each link.
 - Fair Reactive Programming.   
   A. Cave, F. Ferreira, P. Panangaden, B. Pientka
 
-- Freeze After Handling: Quasi-Deterministic Parallel Programming with LVars.
+- Freeze After Handling: Quasi-Deterministic Parallel Programming with LVars.   
   ([preprint](http://www.cs.indiana.edu/~lkuper/papers/2013-lvish-draft.pdf))
-  ([github](https://github.com/iu-parfunc/lvars)),
+  ([github](https://github.com/iu-parfunc/lvars)),  
   L. Kuper, A. Turon, N. Krishnaswami, R. Newton
 
 - Authenticated Data Structures, Generically.   
