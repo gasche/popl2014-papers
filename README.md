@@ -1,4 +1,4 @@
-POPL is the symposium on [Principle of Programming Languages](http://popl.mpi-sws.org/2014/).
+POPL is the symposium on [Principles of Programming Languages](http://popl.mpi-sws.org/2014/).
 The 2014 edition will take place in San Diego, from January 22 to January 24.
 
 The list of accepted papers was published
