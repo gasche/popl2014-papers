@@ -121,7 +121,7 @@ add a line break after each link.
   [P. Panangaden](http://www.cs.mcgill.ca/~prakash/),
   [B. Pientka](http://www.cs.mcgill.ca/~bpientka/)
 
-- Freeze After Handling: Quasi-Deterministic Parallel Programming with LVars.   
+- Freeze After Writing: Quasi-Deterministic Parallel Programming with LVars.   
   ([preprint](http://www.cs.indiana.edu/~lkuper/papers/2013-lvish-draft.pdf))
   ([github](https://github.com/iu-parfunc/lvars)),  
   L. Kuper, A. Turon, N. Krishnaswami, R. Newton
