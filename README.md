@@ -119,7 +119,7 @@ add a line break after each link.
   R. Eisenberg, D. Vytiniotis, S. Peyton Jones, S. Weirich
 
 - Combining Proofs and Programs in a Dependently Typed Language.   
-  ([preprint](http://www.seas.upenn.edu/~sweirich/papers/modal.pdf))
+  ([preprint](http://www.seas.upenn.edu/~sweirich/papers/modal.pdf)),  
   C. Casinghino, V. Sjoeberg, S. Weirich
 
 - Consistency Analysis of Decision-Making Programs.   
@@ -137,12 +137,16 @@ add a line break after each link.
   G. Barthe, C. Fournet, B. Grégoire, P. Strub, N. Swamy, S. Zanella-Béguelin
 
 - A Proof System for Separation Logic with Magic Wand.   
-  W. Lee, S. Park
+  ([technical report](http://pl.postech.ac.kr/SL/))
+  ([website](http://pl.postech.ac.kr/SL/)),  
+  Wonyel Lee, Sungwoo Park
 
 - An Abstraction Refinement Approach to Higher-Order Model Checking.   
-  S. Ramsay, R. Neatherway, L. Ong
+  ([draft](http://hopa.cs.rhul.ac.uk/files/submissions/hopa2013_submission_4.pdf)),  
+  Steven Ramsay, Robin Neatherway, Luke Ong
 
 - Gradual Typing Embedded Securely in JavaScript.   
+  ([draft](http://research.microsoft.com/en-us/um/people/nswamy/papers/gradual-typing-embedded-securely-in-javascript-draft.pdf)),  
   K. Bhargavan, G. Bierman, J. Chen, C. Fournet, A. Rastogi, P. Strub, N. Swamy
 
 - Fair Reactive Programming.   
