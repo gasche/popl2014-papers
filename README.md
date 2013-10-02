@@ -67,15 +67,23 @@ add a line break after each link.
   [R. Sharma](http://www.stanford.edu/~sharmar/)
 
 - Verifying Eventual Consistency of Optimistic Replication Systems.   
-  A. Bouajjani, C. Enea, J. Hamza
+  (no preprint found)
+  ([previous related work](http://www.liafa.univ-paris-diderot.fr/~cenea/esop2013-lin-long.pdf)),  
+  [A. Bouajjani](http://www.liafa.jussieu.fr/~abou/), [C. Enea](http://www.liafa.univ-paris-diderot.fr/~cenea/), J. Hamza
 
 - A Verified Information-Flow Architecture.   
-  A. de Amorim, N. Collins, A. DeHon, D. Demange, C. Hritcu, D. Pichardie, B. Pierce, R. Pollack, A. Tolmach
+  ([draft](http://www.infsec.cs.uni-saarland.de/~hritcu/publications/verified-ifc-draft.pdf)),  
+  A. de Amorim, N. Collins, A. DeHon, D. Demange,
+  [C. Hriţcu](http://www.infsec.cs.uni-saarland.de/~hritcu/),
+  D. Pichardie, B. Pierce, R. Pollack, A. Tolmach
 
 - A non-standard standardization theorem.   
-  B. Accattoli, E. Bonelli, D. Kesner, C. Lombardi
+  ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))
+  [B. Accattoli](https://sites.google.com/site/beniaminoaccattoli/),
+  E. Bonelli, D. Kesner, C. Lombardi
 
 - On Coinductive Equivalences for Higher-Order Probabilistic Functional Programs.   
+  (no preprint found),  
   M. Alberti, U. Dal Lago, D. Sangiorgi
 
 - Optimal Dynamic Partial Order Reduction.   
