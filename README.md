@@ -102,6 +102,7 @@ add a line break after each link.
   D. Zhang, A. Myers
 
 - Probabilistic Relational Verification for Cryptographic Implementations.   
+  ([draft](http://research.microsoft.com/pubs/179317/rfstar.pdf)),  
   G. Barthe, C. Fournet, B. Grégoire, P. Strub, N. Swamy, S. Zanella-Béguelin
 
 - A Proof System for Separation Logic with Magic Wand.   
