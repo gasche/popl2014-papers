@@ -172,7 +172,11 @@ add a line break after each link.
   T. Ehrhard, M. Pagani, C. Tasson
 
 - A Relationally Parametric Model of Dependent Type Theory.   
-  R. Atkey, N. Ghani, P. Johann
+  ([preprint](http://bentnib.org/dtt-parametricity.pdf))
+  ([webpage](http://bentnib.org/dtt-parametricity.html)),  
+  [R. Atkey](http://bentnib.org/),
+  [N. Ghani](https://personal.cis.strath.ac.uk/neil.ghani/),
+  [P. Johann](https://personal.cis.strath.ac.uk/patricia.johann/)
 
 - A Trusted Mechanised JavaScript Specification.   
   M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
