@@ -87,18 +87,30 @@ add a line break after each link.
   M. Alberti, U. Dal Lago, D. Sangiorgi
 
 - Optimal Dynamic Partial Order Reduction.   
-  P. Abdulla, S. Aronis, B. Jonsson, K. Sagonas
+  (no preprint found),  
+  [P. Abdulla](http://user.it.uu.se/~parosh/),
+  [S. Aronis](http://www.it.uu.se/katalog/staar721),
+  [B. Jonsson](http://user.it.uu.se/~bengt/),
+  [K. Sagonas](http://user.it.uu.se/~kostis/)
 
 - Proof search for propositional abstract separation logics via labelled sequents.   
+  ([arxiv](http://arxiv.org/abs/1307.5592)),  
   Z. Hou, R. Clouston, R. Gore, A. Tiu
 
 - Game semantics for Interface Middleweight Java.   
-  A. Murawski, N. Tzevelekos
+  (no preprint found)
+  ([previous related work](http://www.tzevelekos.org/papers/etaps13-cr.pdf)),  
+  [A. Murawski](http://www2.warwick.ac.uk/fac/sci/dcs/people/andrzej_murawski/),
+  [N. Tzevelekos](http://www.tzevelekos.org/)
 
 - A Sound and Complete Abstraction for Reasoning About Parallel Prefix Sums.   
-  N. Chong, A. Donaldson, J. Ketema
+  (no preprint found),  
+  [N. Chong](http://www.doc.ic.ac.uk/~nyc04/),
+  [A. Donaldson](http://www.doc.ic.ac.uk/~afd/),
+  [J. Ketema](http://www.ketema.eu/)
 
 - Abstract Effects and Proof-Relevant Logical Relations.   
+  ([arxiv](http://arxiv.org/abs/1212.5692)),  
   N. Benton, M. Hofmann, V. Nigam
 
 - Closed type families with overlapping equations.   
@@ -107,14 +119,17 @@ add a line break after each link.
   R. Eisenberg, D. Vytiniotis, S. Peyton Jones, S. Weirich
 
 - Combining Proofs and Programs in a Dependently Typed Language.   
+  ([preprint](http://www.seas.upenn.edu/~sweirich/papers/modal.pdf))
   C. Casinghino, V. Sjoeberg, S. Weirich
 
 - Consistency Analysis of Decision-Making Programs.   
+  (no preprint found),  
   [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
   [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
   [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
   
 - Toward General Diagnosis of Static Errors.   
+  ([technical report](http://ecommons.library.cornell.edu/bitstream/1813/33742/2/diagnosis-tr.pdf)),  
   D. Zhang, A. Myers
 
 - Probabilistic Relational Verification for Cryptographic Implementations.   
