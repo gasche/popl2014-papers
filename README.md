@@ -109,7 +109,10 @@ add a line break after each link.
 
 - Fair Reactive Programming.   
   ([preprint](http://cs.mcgill.ca/~acave1/papers/fair-reactive.pdf)),  
-  [A. Cave](http://cs.mcgill.ca/~acave1), [F. Ferreira](http://cs.mcgill.ca/~fferre8/), [P. Panangaden](http://www.cs.mcgill.ca/~prakash/), [B. Pientka](http://www.cs.mcgill.ca/~bpientka/)
+  [A. Cave](http://cs.mcgill.ca/~acave1),
+  [F. Ferreira](http://cs.mcgill.ca/~fferre8/),
+  [P. Panangaden](http://www.cs.mcgill.ca/~prakash/),
+  [B. Pientka](http://www.cs.mcgill.ca/~bpientka/)
 
 - Freeze After Handling: Quasi-Deterministic Parallel Programming with LVars.   
   ([preprint](http://www.cs.indiana.edu/~lkuper/papers/2013-lvish-draft.pdf))
@@ -117,11 +120,12 @@ add a line break after each link.
   L. Kuper, A. Turon, N. Krishnaswami, R. Newton
 
 - Authenticated Data Structures, Generically.   
-  ([preprint](http://www.cs.umd.edu/~mwh/papers/gpads.pdf))  
+  ([preprint](http://www.cs.umd.edu/~mwh/papers/gpads.pdf)),  
   A. Miller, M. Hicks, J. Katz, E. Shi
 
 - Backpack: Retrofitting Haskell with Interfaces.   
   ([preprint](http://www.mpi-sws.org/~skilpat/backpack/backpack-paper.pdf))
+  ([website](http://www.mpi-sws.org/~skilpat/backpack/)),  
   S. Kilpatrick, D. Dreyer, S. Peyton Jones, S. Marlow
 
 - Symbolic Optimization with SMT Solvers.   
