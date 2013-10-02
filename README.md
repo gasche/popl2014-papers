@@ -121,6 +121,7 @@ add a line break after each link.
   A. Miller, M. Hicks, J. Katz, E. Shi
 
 - Backpack: Retrofitting Haskell with Interfaces.   
+  ([preprint](http://www.mpi-sws.org/~skilpat/backpack/backpack-paper.pdf))
   S. Kilpatrick, D. Dreyer, S. Peyton Jones, S. Marlow
 
 - Symbolic Optimization with SMT Solvers.   
