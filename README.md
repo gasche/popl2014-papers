@@ -47,16 +47,24 @@ add a line break after each link.
   J. Brotherston, J. Villard
 
 - FISSILE Type Analysis: Modular Checking of Almost Everywhere Invariants.   
-  D. Coughlin, B. Chang
+  (no preprint found),  
+  [D. Coughlin](www.cs.colorado.edu/~coughlid), [B. Chang](http://www.cs.colorado.edu/~bec/)
 
 - Tabular: A Schema-Driven Probabilistic Programming Language.   
-  A. Gordon, T. Graepel, N. Rolland, C. Russo, J. Borgström, J. Guiver
+  (no preprint found),  
+  [A. Gordon](https://skydrive.live.com/view.aspx/adg?cid=c6149b019d236bf5),
+  [T. Graepel](http://research.microsoft.com/en-us/people/thoreg/),
+  N. Rolland, C. Russo, J. Borgström, J. Guiver
 
 - Effect-Delimited Monad.   
-  S. Katsumata
+  (no preprint found),  
+  [S. Katsumata](http://www.kurims.kyoto-u.ac.jp/~sinya/index-e.html)
 
 - Bias-Variance Tradeoffs in Program Analysis.   
-  A. Aiken, A. Nori, R. Sharma
+  (no preprint found),  
+  [A. Aiken](http://theory.stanford.edu/~aiken/),
+  [A. Nori](http://research.microsoft.com/en-us/people/adityan/),
+  [R. Sharma](http://www.stanford.edu/~sharmar/)
 
 - Verifying Eventual Consistency of Optimistic Replication Systems.   
   A. Bouajjani, C. Enea, J. Hamza
