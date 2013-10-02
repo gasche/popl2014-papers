@@ -37,7 +37,9 @@ add a line break after each link.
 
 - Proofs that count.   
   (no preprint found),  
-  [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html), [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/), [A. Podelski](http://swt.informatik.uni-freiburg.de/staff/podelski)
+  [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
+  [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
+  [A. Podelski](http://swt.informatik.uni-freiburg.de/staff/podelski)
 
 - Parametric Completeness for Separation Theories.   
   ([preprint](http://www0.cs.ucl.ac.uk/staff/j.villard/pub/hybbi-BV13.pdf))
@@ -92,8 +94,10 @@ add a line break after each link.
   C. Casinghino, V. Sjoeberg, S. Weirich
 
 - Consistency Analysis of Decision-Making Programs.   
-  S. Chaudhuri, A. Farzan, Z. Kincaid
-
+  [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
+  [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
+  [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
+  
 - Toward General Diagnosis of Static Errors.   
   D. Zhang, A. Myers
 
