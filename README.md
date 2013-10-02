@@ -148,7 +148,9 @@ add a line break after each link.
   R. Kumar, M. Myreen, S. Owens, M. Norrish
 
 - From Parametricity to Conservation Laws, via Noether's Theorem.   
-  R. Atkey
+  ([preprint](http://bentnib.org/conservation-laws.pdf))
+  ([webpage](http://bentnib.org/conservation-laws.html)),  
+  [R. Atkey](http://bentnib.org/)
 
 - Polymorphic Functions with Set-Theoretic Types (Part 1: Syntax, Semantics, and Evaluation).   
   G. Castagna, K. Nguyễn, Z. Xu, H. Im, S. Lenglet, L. Padovani
