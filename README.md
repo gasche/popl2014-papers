@@ -84,6 +84,8 @@ add a line break after each link.
   N. Benton, M. Hofmann, V. Nigam
 
 - Closed type families with overlapping equations.   
+  ([preprint](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/axioms.pdf))
+  ([extended version](https://research.microsoft.com/en-us/um/people/simonpj/papers/ext-f/axioms-extended.pdf))   
   R. Eisenberg, D. Vytiniotis, S. Peyton Jones, S. Weirich
 
 - Combining Proofs and Programs in a Dependently Typed Language.   
@@ -121,7 +123,6 @@ add a line break after each link.
   A. Miller, M. Hicks, J. Katz, E. Shi
 
 - Backpack: Retrofitting Haskell with Interfaces.   
-  ([preprint](http://www.mpi-sws.org/~skilpat/backpack/backpack-paper.pdf))
   S. Kilpatrick, D. Dreyer, S. Peyton Jones, S. Marlow
 
 - Symbolic Optimization with SMT Solvers.   
