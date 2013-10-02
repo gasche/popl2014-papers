@@ -116,6 +116,7 @@ add a line break after each link.
   L. Kuper, A. Turon, N. Krishnaswami, R. Newton
 
 - Authenticated Data Structures, Generically.   
+  ([preprint](http://www.cs.umd.edu/~mwh/papers/gpads.pdf))  
   A. Miller, M. Hicks, J. Katz, E. Shi
 
 - Backpack: Retrofitting Haskell with Interfaces.   
