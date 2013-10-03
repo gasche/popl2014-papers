@@ -231,7 +231,9 @@ add a line break after each link.
   M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
 
 - An operational and axiomatic semantics for non-determinism and sequence points in C.   
-  R. Krebbers
+  ([preprint](http://robbertkrebbers.nl/research/articles/expressions.pdf))
+  ([Coq source](http://github.com/robbertkrebbers/ch2o)),  
+  [R. Krebbers](http://robbertkrebbers.nl/)
 
 
 ## Affiliated events
