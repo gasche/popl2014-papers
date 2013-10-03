@@ -176,8 +176,13 @@ add a line break after each link.
 - Applying quantitative semantics to higher-order quantum computing.   
   M. Pagani, P. Selinger, B. Valiron
 
-- Replicated Data Types: Specification, Verification, Optimality.   
-  S. Burckhardt, A. Gotsman, H. Yang, M. Zawirski
+- Replicated Data Types: Specification, Verification, Optimality.  
+  ([webpage](http://research.microsoft.com/apps/pubs/default.aspx?id=201602))
+  ([preprint](http://research.microsoft.com/pubs/201602/submitted-ext.pdf)),  
+  [S. Burckhardt](http://research.microsoft.com/en-us/people/sburckha/),
+  [A. Gotsman](http://software.imdea.org/~gotsman/),
+  [H. Yang](http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html),
+  [M. Zawirski](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1120&LANG=en) 
 
 - NetKAT: Semantic Foundations for Networks.   
   C. Anderson, N. Foster, A. Guha, J. Jeannin, D. Kozen, C. Schlesinger, D. Walker
