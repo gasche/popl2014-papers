@@ -73,9 +73,12 @@ add a line break after each link.
 
 - A Verified Information-Flow Architecture.   
   ([draft](http://www.infsec.cs.uni-saarland.de/~hritcu/publications/verified-ifc-draft.pdf)),  
-  A. de Amorim, N. Collins, A. DeHon, D. Demange,
+  [A. Azevedo de Amorim](http://www.cis.upenn.edu/~aarthur),
+  N. Collins, A. DeHon, D. Demange,
   [C. Hriţcu](http://www.infsec.cs.uni-saarland.de/~hritcu/),
-  D. Pichardie, B. Pierce, R. Pollack, A. Tolmach
+  D. Pichardie,
+  [B. Pierce](http://www.cis.upenn.edu/~bcpierce),
+  R. Pollack, A. Tolmach
 
 - A non-standard standardization theorem.   
   ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))
