@@ -33,7 +33,7 @@ add a line break after each link.
 
 - Abstract Acceleration of General Linear Loops.   
   (no preprint found),  
-  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, S. Sankaranarayanan
+  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
 
 - Proofs that count.   
   (no preprint found),  
