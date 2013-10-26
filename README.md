@@ -246,8 +246,58 @@ add a line break after each link.
 
 ## Affiliated events
 
-?
+### PADL
 
-(Feel free to send me pull request with the programme of the
-affiliated events, even if you don't have much preprint links, when
-they become available.)
+The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2014/papers.html).
+
+- Two Applications of the ASP-Prolog System: Decomposable Programs and Multi-context Systems.  
+  Tran Cao Son, Enrico Pontelli and Tiep Le.  
+
+- Partial Type Signatures for Haskell.  
+  Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.   
+
+- Towards Modeling Morality Computationally with Logic Programming.  
+  ([preprint](http://centria.di.fct.unl.pt/~lmp/publications/online-papers/padl-14.pdf))  
+  Ari Saptawijaya and Luís Moniz Pereira.   
+
+- Abstract Modular Inference Systems and Solvers.  
+  ([preprint](http://www.cs.utexas.edu/users/tag/papers-ailab2/ams-aspocp.pdf))    
+  Yuliya Lierler and Mirek Truszczynski.   
+
+- Compiling DNA strand displacement reactions using a functional programming language.  
+  Matthew R. Lakin and Andrew Phillips.   
+
+- Sunroof: A Monadic DSL for Generating JavaScript.   
+  ([preprint](http://faculty.cs.byu.edu/~jay/conferences/2013-tfp/proceedings/tfp2013_submission_13.pdf))   
+  Andy Gill and Jan Bracker.   
+
+- Exploring the Use of GPUs in Constraint Solving.   
+  Federico Campeotto, Alessandro Dal Palù, Agostino Dovier, Ferdinando Fioretto and Enrico Pontelli.   
+
+- On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
+  Miguel Areias and Ricardo Rocha.   
+
+- The F# Computation Expressions Zoo.   
+  Tomas Petricek and Don Syme.   
+
+- Embedding Foreign Code.   
+  ([preprint](http://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf))   
+  Robert Clifton-Everest, Trevor L. Mcdonell, Manuel Chakravarty and Gabriele Keller.   
+
+- Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
+  Martin Elsman and Anders Schack-Nielsen.
+
+- Rx-CML: A Prescription for Safely Relaxing Synchrony.  
+  ([preprint](http://multimlton.cs.purdue.edu/mML/Publications_files/padl14.pdf))   
+  KC Sivaramakrishnan, Lukasz Ziarek and Suresh Jagannathan.
+
+- Panext: Towards an extendible Pandoc system.   
+  Jacco O.G. Krijnen, Doaitse Swierstra and Marcos O. Viera.   
+
+- A Declarative Specification of Giant Number Arithmetic.  
+  ([arxiv](http://arxiv.org/abs/1307.4642))  
+  Paul Tarau. 
+
+- Generic Generic Programming.   
+  ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
+  José Pedro Magalhães and Andres Löh. 
