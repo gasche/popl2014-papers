@@ -246,6 +246,10 @@ add a line break after each link.
 
 ## Affiliated events
 
+(Feel free to send me pull request with the programme of the
+affiliated events, even if you don't have much preprint links, when
+they become available.)
+
 ### PADL
 
 The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2014/papers.html).
