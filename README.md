@@ -246,8 +246,49 @@ add a line break after each link.
 
 ## Affiliated events
 
-?
+### PADL
 
-(Feel free to send me pull request with the programme of the
-affiliated events, even if you don't have much preprint links, when
-they become available.)
+- Two Applications of the ASP-Prolog System: Decomposable Programs and Multi-context Systems.  
+  Tran Cao Son, Enrico Pontelli and Tiep Le.  
+
+- Partial Type Signatures for Haskell.  
+  Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.   
+
+- Towards Modeling Morality Computationally with Logic Programming.  
+  Ari Saptawijaya and Luís Moniz Pereira.   
+
+- Abstract Modular Inference Systems and Solvers.  
+  Yuliya Lierler and Mirek Truszczynski.   
+
+- Compiling DNA strand displacement reactions using a functional programming language.  
+  Matthew R. Lakin and Andrew Phillips.   
+
+- Sunroof: A Monadic DSL for Generating JavaScript.   
+  Andy Gill and Jan Bracker.   
+
+- Exploring the Use of GPUs in Constraint Solving.   
+  Federico Campeotto, Alessandro Dal Palù, Agostino Dovier, Ferdinando Fioretto and Enrico Pontelli.   
+
+- On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
+  Miguel Areias and Ricardo Rocha.   
+
+- The F# Computation Expressions Zoo.   
+  Tomas Petricek and Don Syme.   
+
+- Embedding Foreign Code.   
+  Robert Clifton-Everest, Trevor L. Mcdonell, Manuel Chakravarty and Gabriele Keller.   
+
+- Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
+  Martin Elsman and Anders Schack-Nielsen.
+
+- Rx-CML: A Prescription for Safely Relaxing Synchrony.   
+  KC Sivaramakrishnan, Lukasz Ziarek and Suresh Jagannathan.
+
+- Panext: Towards an extendible Pandoc system.   
+  Jacco O.G. Krijnen, Doaitse Swierstra and Marcos O. Viera.   
+
+- A Declarative Specification of Giant Number Arithmetic.   
+  Paul Tarau. 
+
+- Generic Generic Programming.   
+  José Pedro Magalhães and Andres Löh. 
