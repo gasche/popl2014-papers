@@ -23,7 +23,7 @@ add a line break after each link.
   L. D'Antoni, M. Veanes
 
 - Profiling For Laziness.   
-  (no preprint found),  
+  ([preprint](http://www.ccs.neu.edu/home/stchang/pubs/Chang-Felleisen-POPL2014.pdf)),  
   [S. Chang](http://www.ccs.neu.edu/home/stchang/), [M. Felleisen](http://www.ccs.neu.edu/home/matthias/)
 
 - Sound Input Filter Generation for Integer Overflow Errors.   
