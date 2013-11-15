@@ -188,6 +188,7 @@ add a line break after each link.
   [M. Zawirski](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1120&LANG=en) 
 
 - NetKAT: Semantic Foundations for Networks.   
+  ([preprint](http://www.cs.cornell.edu/~kozen/papers/NetKAT.pdf)),  
   C. Anderson, N. Foster, A. Guha, J. Jeannin, D. Kozen, C. Schlesinger, D. Walker
 
 - Abstract Satisfaction.   
@@ -197,6 +198,7 @@ add a line break after each link.
   U. Boker, T. Henzinger, A. Radhakrishna
 
 - Bridging Boolean and Quantitative Synthesis Using Smoothed Proof Search.   
+  ([preprint](www.cs.rice.edu/~sc40/pubs/popl14-smooth.pdf)),  
   M. Clochard, S. Chaudhuri, A. Solar-Lezama
 
 - CakeML: A Verified Implementation of ML.   
