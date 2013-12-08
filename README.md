@@ -220,12 +220,15 @@ add a line break after each link.
   T. Beyene, S. Chaudhuri, C. Popeea, A. Rybalchenko
 
 - Tracing Compilation by Abstract Interpretation.   
+  ([preprint](http://www.math.unipd.it/~ranzato/papers/popl14.pdf)),  
   S. Dissegna, F. Logozzo, F. Ranzato
 
 - Counter-Factual Typing for Debugging Type Errors.   
+  ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/CF-Typing_POPL14.pdf)),  
   S. Chen, M. Erwig
 
 - Modular, Higher-Order Cardinality Analysis in Theory and Practice.   
+  ([extended version](https://research.microsoft.com/pubs/204260/cardinality-extended.pdf)),  
   I. Sergey, D. Vytiniotis, S. Peyton Jones
 
 - Modular Reasoning on Unique Heap Paths via Effectively Propositional Formulas.   
@@ -242,6 +245,7 @@ add a line break after each link.
   [P. Johann](https://personal.cis.strath.ac.uk/patricia.johann/)
 
 - A Trusted Mechanised JavaScript Specification.   
+  ([preprint](http://hal.inria.fr/docs/00/91/01/35/PDF/jscert_popl.pdf)),  
   M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
 
 - An operational and axiomatic semantics for non-determinism and sequence points in C.   
@@ -264,6 +268,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Tran Cao Son, Enrico Pontelli and Tiep Le.  
 
 - Partial Type Signatures for Haskell.  
+  ([extended version](http://people.cs.kuleuven.be/~dominique.devriese/hpts-ext.pdf))  
   Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.   
 
 - Towards Modeling Morality Computationally with Logic Programming.  
