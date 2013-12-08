@@ -317,6 +317,76 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
   José Pedro Magalhães and Andres Löh. 
 
+### PEPM
+
+- Semantic Bidirectionalization Revisited.   
+  (no preprint found),  
+  Meng Wang, Shayan Najd.  
+
+- Optimizing SYB is Easy!.   
+  (no preprint found),  
+  Michael D. Adams, Andrew Farmer, Jos Pedro Magalhes.  
+
+- Early Detection of Type Errors in C++ Templates.   
+  (no preprint found),  
+  Sheng Chen, Martin Erwig.  
+
+- An Operational Semantics for Android Activities.   
+  (no preprint found),  
+  Étienne Payet, Fausto Spoto.  
+
+- QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
+  (no preprint found),  
+  Gabriel Kerneis, Charlie Shepherd, Stefan Hajnoczi.  
+
+- Type-Changing Rewriting and Semantics-Preserving Transformation.   
+  (no preprint found),  
+  Sean Leather, Johan Jeuring, Andres Löh, Bram Schuur.  
+
+- Lazy Stateless Incremental Evaluation Machinery for Attribute Grammars.   
+  (no preprint found),  
+  Jeroen Bransen, Atze Dijkstra, Doaitse Swierstra.  
+
+- The HERMIT in the Stream.   
+  (no preprint found),  
+  Andrew Farmer, Christian Hoener Zu Siederdissen, Andy Gill.  
+
+- Monadic Combinators for "Putback" Style Bidirectional Programming.   
+  (no preprint found),  
+  Hugo Pacheco, Zhenjiang Hu, Sebastian Fischer.  
+
+- Effective Quotation.   
+  (no preprint found),  
+  James Cheney, Sam Lindley, Gabriel Radanne, Philip Wadler.  
+
+- Compile-time Reflection and Metaprogramming for Java.   
+  (no preprint found),  
+  Weiyu Miao, Jeremy Siek.  
+
+- Combinators for Impure yet Hygienic Code Generation.   
+  (no preprint found),  
+  Yukiyoshi Kameyama, Oleg Kiselyov, Chung-Chieh Shan.  
+
+- Automating Property-based Testing of Evolving Web Services.   
+  (no preprint found),  
+  Huiqing Li, Simon Thompson, Pablo Lamela Seijas, Miguel Angel Francisco.  
+
+- Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
+  (no preprint found),  
+  Álvaro Garca-Prez, Pablo Nogueira, Ilya Sergey.  
+
+- HIPimm: Verifying Granular Immutability Guarantees.   
+  (no preprint found),  
+  Andreea Costea, Asankhaya Sharma, Cristina David.  
+
+- A Modular and Generic Analysis Server System for Functional Logic Programs.   
+  (no preprint found),  
+  Michael Hanus, Fabian Skrlac.  
+
+- Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
+  (no preprint found),  
+  Pedro Martins, Joo Paulo Fernandes, Joo Saraiva, Eric Van Wyk.  
+
 ### VMCAI
 
 - Practical Floating-Point Tests with Integer Code.   
