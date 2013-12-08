@@ -392,25 +392,32 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 ### PLPV
 
-- Programming Languages for High-Assurance Autonomous Vehicles..   
+- Programming Languages for High-Assurance Autonomous Vehicles.   
+  (no preprint found)  
   [Lee Pike](http://www.cs.indiana.edu/~lepike/).  
 
-- The Recursive Polarized Dual Calculus..   
+- The Recursive Polarized Dual Calculus.   
+  ([preprint](http://homepage.cs.uiowa.edu/~astump/papers/rpdc-plpv14.pdf))  
   [Aaron Stump](http://www.cs.uiowa.edu/~astump).  
 
-- Substructural Typestates..   
+- Substructural Typestates.   
+  ([preprint](https://www.cs.cmu.edu/~foliveir/papers/plpv14-paper.pdf))  
   Filipe Militao, [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/) and [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/).  
 
-- Refinement Types For Haskell..   
+- Refinement Types For Haskell.   
+  (no preprint found)  
   [Ranjit Jhala](http://goto.ucsd.edu/~rjhala/).  
 
-- Verified Programs with Binders..   
+- Verified Programs with Binders.   
+  (no preprint found)  
   Martin Clochard, [Claude Marché](http://www.lri.fr/~marche/) and [Andrei Paskevich](http://tertium.org/).  
 
-- Formalizing a Correctness Property of a Type-Directed Partial Evaluator..   
+- Formalizing a Correctness Property of a Type-Directed Partial Evaluator.   
+  (no preprint found)  
   Noriko Hirota and [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai).  
 
-- An Abstract Categorical Semantics for Functional Reactive Programming with Processes..   
+- An Abstract Categorical Semantics for Functional Reactive Programming with Processes.   
+  (no preprint found)  
   [Wolfgang Jeltsch](http://wolfgang.jeltsch.info/).  
 
 ### VMCAI
