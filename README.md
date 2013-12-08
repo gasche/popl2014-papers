@@ -32,11 +32,11 @@ add a line break after each link.
   F. Long, S. Sidiroglou-Douskos, D. Kim, M. Rinard
 
 - Abstract Acceleration of General Linear Loops.   
-  (no preprint found),  
+  ([arxiv](http://arxiv.org/pdf/1311.0768.pdf)),  
   [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
 
 - Proofs that count.   
-  (no preprint found),  
+  ([preprint](http://www.cs.toronto.edu/~azadeh/resources/papers/popl14-counter.pdf)),  
   [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
   [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
   [A. Podelski](http://swt.informatik.uni-freiburg.de/staff/podelski)
@@ -61,13 +61,13 @@ add a line break after each link.
   [S. Katsumata](http://www.kurims.kyoto-u.ac.jp/~sinya/index-e.html)
 
 - Bias-Variance Tradeoffs in Program Analysis.   
-  (no preprint found),  
+  ([preprint](http://theory.stanford.edu/~aiken/publications/papers/popl14.pdf)),  
   [A. Aiken](http://theory.stanford.edu/~aiken/),
   [A. Nori](http://research.microsoft.com/en-us/people/adityan/),
   [R. Sharma](http://www.stanford.edu/~sharmar/)
 
 - Verifying Eventual Consistency of Optimistic Replication Systems.   
-  (no preprint found)
+  ([preprint](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2014.pdf))
   ([previous related work](http://www.liafa.univ-paris-diderot.fr/~cenea/esop2013-lin-long.pdf)),  
   [A. Bouajjani](http://www.liafa.jussieu.fr/~abou/), [C. Enea](http://www.liafa.univ-paris-diderot.fr/~cenea/), J. Hamza
 
@@ -90,7 +90,7 @@ add a line break after each link.
   M. Alberti, U. Dal Lago, D. Sangiorgi
 
 - Optimal Dynamic Partial Order Reduction.   
-  (no preprint found),  
+  ([preprint](http://user.it.uu.se/~parosh/publications/papers/popl2014.pdf)),  
   [P. Abdulla](http://user.it.uu.se/~parosh/),
   [S. Aronis](http://www.it.uu.se/katalog/staar721),
   [B. Jonsson](http://user.it.uu.se/~bengt/),
@@ -107,7 +107,7 @@ add a line break after each link.
   [N. Tzevelekos](http://www.tzevelekos.org/)
 
 - A Sound and Complete Abstraction for Reasoning About Parallel Prefix Sums.   
-  (no preprint found),  
+  ([preprint](http://www.doc.ic.ac.uk/~nyc04/papers/popl14.pdf)),  
   [N. Chong](http://www.doc.ic.ac.uk/~nyc04/),
   [A. Donaldson](http://www.doc.ic.ac.uk/~afd/),
   [J. Ketema](http://www.ketema.eu/)
