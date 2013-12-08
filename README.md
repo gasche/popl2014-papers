@@ -126,7 +126,7 @@ add a line break after each link.
   C. Casinghino, V. Sjoeberg, S. Weirich
 
 - Consistency Analysis of Decision-Making Programs.   
-  (no preprint found),  
+  ([preprint](http://www.cs.rice.edu/~sc40/pubs/popl14-geometry.pdf)),  
   [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
   [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
   [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
@@ -174,9 +174,11 @@ add a line break after each link.
   S. Kilpatrick, D. Dreyer, S. Peyton Jones, S. Marlow
 
 - Symbolic Optimization with SMT Solvers.   
+  ([preprint](http://www.cs.toronto.edu/~zkincaid/pub/popl14c.pdf)),  
   Y. Li, A. Albarghouthi, Z. Kincaid, A. Gurfinkel, M. Chechik
 
 - Applying quantitative semantics to higher-order quantum computing.   
+  ([arxiv](http://arxiv.org/abs/1311.2290.pdf)),  
   M. Pagani, P. Selinger, B. Valiron
 
 - Replicated Data Types: Specification, Verification, Optimality.  
@@ -202,6 +204,7 @@ add a line break after each link.
   M. Clochard, S. Chaudhuri, A. Solar-Lezama
 
 - CakeML: A Verified Implementation of ML.   
+  ([preprint](https://cakeml.org/popl14.pdf)),  
   R. Kumar, M. Myreen, S. Owens, M. Norrish
 
 - From Parametricity to Conservation Laws, via Noether's Theorem.   
@@ -213,6 +216,7 @@ add a line break after each link.
   G. Castagna, K. Nguyễn, Z. Xu, H. Im, S. Lenglet, L. Padovani
 
 - A Constraint-Based Approach to Solving Games on Infinite Graphs.   
+  ([preprint](http://www7.in.tum.de/~popeea/research/games.popl14.pdf)),  
   T. Beyene, S. Chaudhuri, C. Popeea, A. Rybalchenko
 
 - Tracing Compilation by Abstract Interpretation.   
