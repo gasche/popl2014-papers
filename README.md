@@ -217,7 +217,7 @@ add a line break after each link.
 
 - Authenticated Data Structures, Generically.   
   ([preprint](http://www.cs.umd.edu/~mwh/papers/gpads.pdf)),
-  ([github](https://github.com/amiller/generic-ads)  
+  ([github](https://github.com/amiller/generic-ads))  
   A. Miller,
   [M. Hicks](http://www.cs.umd.edu/~mwh/),
   [J. Katz](http://www.cs.umd.edu/~jkatz/),
