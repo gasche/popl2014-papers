@@ -255,7 +255,13 @@ add a line break after each link.
 
 - NetKAT: Semantic Foundations for Networks.   
   ([preprint](http://www.cs.cornell.edu/~kozen/papers/NetKAT.pdf)),  
-  C. Anderson, N. Foster, A. Guha, J. Jeannin, D. Kozen, C. Schlesinger, D. Walker
+  C. Anderson,
+  [N. Foster](https://www.cs.cornell.edu/~jnfoster/),
+  [A. Guha](https://people.cs.umass.edu/~arjun/),
+  [J. Jeannin](https://www.cs.cornell.edu/~jeannin/),
+  [D. Kozen](https://www.cs.cornell.edu/~kozen/),
+  [C. Schlesinger](http://www.cs.princeton.edu/~cschlesi/),
+  [D. Walker](http://www.cs.princeton.edu/~dpw/)
 
 - Abstract Satisfaction.   
   [V. D'Silva](http://www.cs.ox.ac.uk/people/vijay.dsilva/),
@@ -268,32 +274,44 @@ add a line break after each link.
   [A. Radhakrishna](http://pub.ist.ac.at/~aradha/)
 
 - Bridging Boolean and Quantitative Synthesis Using Smoothed Proof Search.   
-  ([preprint](www.cs.rice.edu/~sc40/pubs/popl14-smooth.pdf)),  
-  M. Clochard,
+  ([preprint](http://www.cs.rice.edu/~sc40/pubs/popl14-smooth.pdf)),  
+  [M. Clochard](https://www.lri.fr/~clochard/),
   [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
-  A. Solar-Lezama
+  [A. Solar-Lezama](http://people.csail.mit.edu/asolar/)
 
 - CakeML: A Verified Implementation of ML.   
   ([preprint](https://cakeml.org/popl14.pdf)),  
-  R. Kumar, M. Myreen, S. Owens, M. Norrish
+  [R. Kumar](http://www.cl.cam.ac.uk/~rk436/),
+  [M. Myreen](http://www.cl.cam.ac.uk/~mom22/),
+  [S. Owens](http://www.cs.kent.ac.uk/people/staff/sao/),
+  [M. Norrish](http://nicta.com.au/people/norrishm)
 
 - From Parametricity to Conservation Laws, via Noether's Theorem.   
   ([preprint](http://bentnib.org/conservation-laws.pdf))
   ([webpage](http://bentnib.org/conservation-laws.html)),  
   [R. Atkey](http://bentnib.org/)
 
-- Polymorphic Functions with Set-Theoretic Types (Part 1: Syntax, Semantics, and Evaluation).   
-  G. Castagna, K. Nguyễn, Z. Xu, H. Im, S. Lenglet, L. Padovani
+- Polymorphic Functions with Set-Theoretic Types (Part 1: Syntax, Semantics, and Evaluation). 
+  ([preprint](http://www.pps.univ-paris-diderot.fr/~gc/papers/polydeuces-part1.pdf))
+  [G. Castagna](http://www.pps.univ-paris-diderot.fr/~gc/),
+  [K. Nguyễn](https://www.lri.fr/~kn/),
+  [Z. Xu](http://www.pps.univ-paris-diderot.fr/~zhiwu/),
+  [H. Im](https://www.lri.fr/~im/),
+  [S. Lenglet](http://www.loria.fr/~slenglet/),
+  [L. Padovani](http://www.di.unito.it/~padovani/)
 
 - A Constraint-Based Approach to Solving Games on Infinite Graphs.   
   ([preprint](http://www7.in.tum.de/~popeea/research/games.popl14.pdf)),  
-  T. Beyene,
+  [T. Beyene](http://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=139),
   [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
-  C. Popeea, A. Rybalchenko
+  [C. Popeea](http://www7.in.tum.de/~popeea/),
+  [A. Rybalchenko](http://www7.in.tum.de/~rybal/)
 
 - Tracing Compilation by Abstract Interpretation.   
   ([preprint](http://www.math.unipd.it/~ranzato/papers/popl14.pdf)),  
-  S. Dissegna, F. Logozzo, F. Ranzato
+  S. Dissegna,
+  [F. Logozzo](https://research.microsoft.com/en-us/people/logozzo/),
+  [F. Ranzato](http://www.math.unipd.it/~ranzato/)
 
 - Counter-Factual Typing for Debugging Type Errors.   
   ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/CF-Typing_POPL14.pdf)),  
@@ -302,15 +320,22 @@ add a line break after each link.
 
 - Modular, Higher-Order Cardinality Analysis in Theory and Practice.   
   ([extended version](https://research.microsoft.com/pubs/204260/cardinality-extended.pdf)),  
-  I. Sergey,
+  [I. Sergey](http://ilyasergey.net/),
   [D. Vytiniotis](https://research.microsoft.com/en-us/people/dimitris/),
   [S. Peyton Jones](https://research.microsoft.com/en-us/people/simonpj/)
 
 - Modular Reasoning on Unique Heap Paths via Effectively Propositional Formulas.   
-  S. Itzhaky, O. Lahav, A. Banerjee, N. Immerman, A. Nanevski, M. Sagiv
+  [S. Itzhaky](http://www.cs.tau.ac.il/~shachar/),
+  [O. Lahav](http://www.cs.tau.ac.il/~orilahav/),
+  [A. Banerjee](http://software.imdea.org/~ab/),
+  [N. Immerman](http://people.cs.umass.edu/~immerman/),
+  [A. Nanevski](http://software.imdea.org/~aleks/),
+  [M. Sagiv](http://www.cs.tau.ac.il/~msagiv/)
 
 - Probabilistic Coherence Spaces are Fully Abstract for Probabilistic PCF.   
-  T. Ehrhard, M. Pagani, C. Tasson
+  [T. Ehrhard](http://www.pps.univ-paris-diderot.fr/~ehrhard/),
+  [M. Pagani](https://www-lipn.univ-paris13.fr/~pagani/),
+  [C. Tasson](http://www.pps.univ-paris-diderot.fr/~tasson/)
 
 - A Relationally Parametric Model of Dependent Type Theory.   
   ([preprint](http://bentnib.org/dtt-parametricity.pdf))
@@ -321,7 +346,14 @@ add a line break after each link.
 
 - A Trusted Mechanised JavaScript Specification.   
   ([preprint](http://hal.inria.fr/docs/00/91/01/35/PDF/jscert_popl.pdf)),  
-  M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
+  [M. Bodin](http://people.irisa.fr/Martin.Bodin/),
+  [A. Charguéraud](http://www.chargueraud.org/),
+  [D. Filaretti](https://dfilaretti.wordpress.com/about/),
+  [P. Gardner](http://www.doc.ic.ac.uk/~pg/),
+  [S. Maffeis](http://www.doc.ic.ac.uk/~maffeis/),
+  [D. Naudziuniene](http://www.doc.ic.ac.uk/~dn911/),
+  [A. Schmitt](http://www.irisa.fr/celtique/aschmitt/),
+  [G. Smith](http://www.doc.ic.ac.uk/~gds/)
 
 - An operational and axiomatic semantics for non-determinism and sequence points in C.   
   ([preprint](http://robbertkrebbers.nl/research/articles/expressions.pdf))
@@ -488,7 +520,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 - Verified Programs with Binders.   
   (no preprint found)  
-  Martin Clochard,
+  [Martin Clochard](https://www.lri.fr/~clochard/),
   [Claude Marché](http://www.lri.fr/~marche/),
   [Andrei Paskevich](http://tertium.org/).
 
@@ -587,7 +619,8 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 - Modular Synthesis of Sketches using Models.   
   ([preprint](http://sketch1.csail.mit.edu/Dropbox/models/svn/cav13-uf/main.pdf))  
-  Rohit Singh, Rishabh Singh, Zhilei Xu, Rebecca Krosnick and Armando Solar-Lezama
+  Rohit Singh, Rishabh Singh, Zhilei Xu, Rebecca Krosnick,
+  [Armando Solar-Lezama](http://people.csail.mit.edu/asolar/)
 
 - Widening for Control-Flow.   
   (no preprint found)  
