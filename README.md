@@ -23,7 +23,7 @@ add a line break after each link.
   L. D'Antoni, M. Veanes
 
 - Profiling For Laziness.   
-  (no preprint found),  
+  ([preprint](http://www.ccs.neu.edu/home/stchang/pubs/Chang-Felleisen-POPL2014.pdf)),  
   [S. Chang](http://www.ccs.neu.edu/home/stchang/), [M. Felleisen](http://www.ccs.neu.edu/home/matthias/)
 
 - Sound Input Filter Generation for Integer Overflow Errors.   
@@ -33,7 +33,7 @@ add a line break after each link.
 
 - Abstract Acceleration of General Linear Loops.   
   (no preprint found),  
-  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, S. Sankaranarayanan
+  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
 
 - Proofs that count.   
   (no preprint found),  
@@ -73,9 +73,12 @@ add a line break after each link.
 
 - A Verified Information-Flow Architecture.   
   ([draft](http://www.infsec.cs.uni-saarland.de/~hritcu/publications/verified-ifc-draft.pdf)),  
-  A. de Amorim, N. Collins, A. DeHon, D. Demange,
+  [A. Azevedo de Amorim](http://www.cis.upenn.edu/~aarthur),
+  N. Collins, A. DeHon, D. Demange,
   [C. Hriţcu](http://www.infsec.cs.uni-saarland.de/~hritcu/),
-  D. Pichardie, B. Pierce, R. Pollack, A. Tolmach
+  D. Pichardie,
+  [B. Pierce](http://www.cis.upenn.edu/~bcpierce),
+  R. Pollack, A. Tolmach
 
 - A non-standard standardization theorem.   
   ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))
@@ -176,10 +179,16 @@ add a line break after each link.
 - Applying quantitative semantics to higher-order quantum computing.   
   M. Pagani, P. Selinger, B. Valiron
 
-- Replicated Data Types: Specification, Verification, Optimality.   
-  S. Burckhardt, A. Gotsman, H. Yang, M. Zawirski
+- Replicated Data Types: Specification, Verification, Optimality.  
+  ([webpage](http://research.microsoft.com/apps/pubs/default.aspx?id=201602))
+  ([preprint](http://research.microsoft.com/pubs/201602/submitted-ext.pdf)),  
+  [S. Burckhardt](http://research.microsoft.com/en-us/people/sburckha/),
+  [A. Gotsman](http://software.imdea.org/~gotsman/),
+  [H. Yang](http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html),
+  [M. Zawirski](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1120&LANG=en) 
 
 - NetKAT: Semantic Foundations for Networks.   
+  ([preprint](http://www.cs.cornell.edu/~kozen/papers/NetKAT.pdf)),  
   C. Anderson, N. Foster, A. Guha, J. Jeannin, D. Kozen, C. Schlesinger, D. Walker
 
 - Abstract Satisfaction.   
@@ -189,6 +198,7 @@ add a line break after each link.
   U. Boker, T. Henzinger, A. Radhakrishna
 
 - Bridging Boolean and Quantitative Synthesis Using Smoothed Proof Search.   
+  ([preprint](www.cs.rice.edu/~sc40/pubs/popl14-smooth.pdf)),  
   M. Clochard, S. Chaudhuri, A. Solar-Lezama
 
 - CakeML: A Verified Implementation of ML.   
@@ -231,13 +241,69 @@ add a line break after each link.
   M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
 
 - An operational and axiomatic semantics for non-determinism and sequence points in C.   
-  R. Krebbers
+  ([preprint](http://robbertkrebbers.nl/research/articles/expressions.pdf))
+  ([Coq source](http://github.com/robbertkrebbers/ch2o)),  
+  [R. Krebbers](http://robbertkrebbers.nl/)
 
 
 ## Affiliated events
 
-?
-
 (Feel free to send me pull request with the programme of the
 affiliated events, even if you don't have much preprint links, when
 they become available.)
+
+### PADL
+
+The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2014/papers.html).
+
+- Two Applications of the ASP-Prolog System: Decomposable Programs and Multi-context Systems.  
+  Tran Cao Son, Enrico Pontelli and Tiep Le.  
+
+- Partial Type Signatures for Haskell.  
+  Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.   
+
+- Towards Modeling Morality Computationally with Logic Programming.  
+  ([preprint](http://centria.di.fct.unl.pt/~lmp/publications/online-papers/padl-14.pdf))  
+  Ari Saptawijaya and Luís Moniz Pereira.   
+
+- Abstract Modular Inference Systems and Solvers.  
+  ([preprint](http://www.cs.utexas.edu/users/tag/papers-ailab2/ams-aspocp.pdf))    
+  Yuliya Lierler and Mirek Truszczynski.   
+
+- Compiling DNA strand displacement reactions using a functional programming language.  
+  Matthew R. Lakin and Andrew Phillips.   
+
+- Sunroof: A Monadic DSL for Generating JavaScript.   
+  ([preprint](http://faculty.cs.byu.edu/~jay/conferences/2013-tfp/proceedings/tfp2013_submission_13.pdf))   
+  Andy Gill and Jan Bracker.   
+
+- Exploring the Use of GPUs in Constraint Solving.   
+  Federico Campeotto, Alessandro Dal Palù, Agostino Dovier, Ferdinando Fioretto and Enrico Pontelli.   
+
+- On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
+  Miguel Areias and Ricardo Rocha.   
+
+- The F# Computation Expressions Zoo.   
+  Tomas Petricek and Don Syme.   
+
+- Embedding Foreign Code.   
+  ([preprint](http://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf))   
+  Robert Clifton-Everest, Trevor L. Mcdonell, Manuel Chakravarty and Gabriele Keller.   
+
+- Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
+  Martin Elsman and Anders Schack-Nielsen.
+
+- Rx-CML: A Prescription for Safely Relaxing Synchrony.  
+  ([preprint](http://multimlton.cs.purdue.edu/mML/Publications_files/padl14.pdf))   
+  KC Sivaramakrishnan, Lukasz Ziarek and Suresh Jagannathan.
+
+- Panext: Towards an extendible Pandoc system.   
+  Jacco O.G. Krijnen, Doaitse Swierstra and Marcos O. Viera.   
+
+- A Declarative Specification of Giant Number Arithmetic.  
+  ([arxiv](http://arxiv.org/abs/1307.4642))  
+  Paul Tarau. 
+
+- Generic Generic Programming.   
+  ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
+  José Pedro Magalhães and Andres Löh. 
