@@ -323,42 +323,55 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 ### PEPM
 
 - Semantic Bidirectionalization Revisited.   
+  (no preprint found)  
   Meng Wang, Shayan Najd.  
 
 - Optimizing SYB is Easy!.   
+  ([preprint](http://michaeldadams.org/papers/syb-opt/))  
   Michael D. Adams, Andrew Farmer, Jos Pedro Magalhes.  
 
 - Early Detection of Type Errors in C++ Templates.   
+  ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/C++TemplateErrors_PEPM14.pdf))  
   Sheng Chen, Martin Erwig.  
 
 - An Operational Semantics for Android Activities.   
+  (no preprint found)  
   Étienne Payet, Fausto Spoto.  
 
 - QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
+  ([arxiv](http://arxiv.org/abs/1310.3404.pdf))  
   Gabriel Kerneis, Charlie Shepherd, Stefan Hajnoczi.  
 
 - Type-Changing Rewriting and Semantics-Preserving Transformation.   
+  ([technical report](http://www.cs.uu.nl/research/techreps/repo/CS-2013/2013-017.pdf))  
   Sean Leather, Johan Jeuring, Andres Löh, Bram Schuur.  
 
 - Lazy Stateless Incremental Evaluation Machinery for Attribute Grammars.   
+  ([preprint](http://www.staff.science.uu.nl/~brans106/lsiag-machinery.pdf))  
   Jeroen Bransen, Atze Dijkstra, Doaitse Swierstra.  
 
 - The HERMIT in the Stream.   
+  (no preprint found)  
   Andrew Farmer, Christian Hoener Zu Siederdissen, Andy Gill.  
 
 - Monadic Combinators for "Putback" Style Bidirectional Programming.   
+  ([preprint](http://www.prg.nii.ac.jp/members/hpacheco/publications/pepm14.pdf))  
   Hugo Pacheco, Zhenjiang Hu, Sebastian Fischer.  
 
 - Effective Quotation.   
+  ([arxiv](http://arxiv.org/abs/1310.4780.pdf))  
   James Cheney, Sam Lindley, Gabriel Radanne, Philip Wadler.  
 
 - Compile-time Reflection and Metaprogramming for Java.   
+  (no preprint found)  
   Weiyu Miao, Jeremy Siek.  
 
 - Combinators for Impure yet Hygienic Code Generation.   
+  (no preprint found)  
   Yukiyoshi Kameyama, Oleg Kiselyov, Chung-Chieh Shan.  
 
 - Automating Property-based Testing of Evolving Web Services.   
+  ([preprint](http://www.cs.kent.ac.uk/people/staff/sjt/Prowess/ws_testing.pdf))  
   Huiqing Li, Simon Thompson, Pablo Lamela Seijas, Miguel Angel Francisco.  
 
 - Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
@@ -366,12 +379,15 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Álvaro Garca-Prez, Pablo Nogueira, Ilya Sergey.  
 
 - HIPimm: Verifying Granular Immutability Guarantees.   
+  ([preprint](http://www.comp.nus.edu.sg/~asankhs/pdf/HIPimm.pdf))  
   Andreea Costea, Asankhaya Sharma, Cristina David.  
 
 - A Modular and Generic Analysis Server System for Functional Logic Programs.   
+  (no preprint found)  
   Michael Hanus, Fabian Skrlac.  
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
+  (no preprint found)  
   Pedro Martins, Joo Paulo Fernandes, Joo Saraiva, Eric Van Wyk.  
 
 ### PLPV
