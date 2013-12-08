@@ -14,26 +14,36 @@ add a line break after each link.
 
 
 - Sound Compilation of Reals.   
+  ([preprint](http://lara.epfl.ch/~kuncak/papers/DarulovaKuncak14SoundCompilationReals.pdf))
   ([arxiv](http://arxiv.org/abs/1309.2511)),  
-  E. Darulova, V. Kuncak
+  [E. Darulova](http://people.epfl.ch/eva.darulova),
+  [V. Kuncak](http://lara.epfl.ch/~kuncak/)
 
 - Minimization of Symbolic Automata.   
+  ([preprint](http://www.cis.upenn.edu/~lorisdan/papers/popl13.pdf))
   ([technical report](http://research.microsoft.com/pubs/192090/MSR-TR-2013-48.pdf))
   ([webpage](http://research.microsoft.com/apps/pubs/default.aspx?id=192090)),  
-  L. D'Antoni, M. Veanes
+  [L. D'Antoni](http://www.cis.upenn.edu/~lorisdan/),
+  [M. Veanes](https://research.microsoft.com/en-us/people/margus/)
 
 - Profiling For Laziness.   
   ([preprint](http://www.ccs.neu.edu/home/stchang/pubs/Chang-Felleisen-POPL2014.pdf)),  
-  [S. Chang](http://www.ccs.neu.edu/home/stchang/), [M. Felleisen](http://www.ccs.neu.edu/home/matthias/)
+  [S. Chang](http://www.ccs.neu.edu/home/stchang/),
+  [M. Felleisen](http://www.ccs.neu.edu/home/matthias/)
 
 - Sound Input Filter Generation for Integer Overflow Errors.   
   ([technical report](http://dspace.mit.edu/bitstream/handle/1721.1/79827/MIT-CSAIL-TR-2013-018.pdf))
   ([website](http://dspace.mit.edu/handle/1721.1/79827)),  
-  F. Long, S. Sidiroglou-Douskos, D. Kim, M. Rinard
+  [F. Long](http://people.csail.mit.edu/fanl/),
+  [S. Sidiroglou-Douskos](http://people.csail.mit.edu/stelios/),
+  [D. Kim](http://people.csail.mit.edu/dkim/),
+  [M. Rinard](http://people.csail.mit.edu/rinard/)
 
 - Abstract Acceleration of General Linear Loops.   
   ([arxiv](http://arxiv.org/pdf/1311.0768.pdf)),  
-  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
+  [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/),
+  [P. Schrammel](http://www.cs.ox.ac.uk/people/peter.schrammel/),
+  [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
 
 - Proofs that count.   
   ([preprint](http://www.cs.toronto.edu/~azadeh/resources/papers/popl14-counter.pdf)),  
@@ -44,17 +54,21 @@ add a line break after each link.
 - Parametric Completeness for Separation Theories.   
   ([preprint](http://www0.cs.ucl.ac.uk/staff/j.villard/pub/hybbi-BV13.pdf))
   ([slides](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/slides/oxford_aug13.pdf)),  
-  J. Brotherston, J. Villard
+  [J. Brotherston](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/),
+  [J. Villard](http://www0.cs.ucl.ac.uk/staff/J.Villard/)
 
 - FISSILE Type Analysis: Modular Checking of Almost Everywhere Invariants.   
   (no preprint found),  
-  [D. Coughlin](www.cs.colorado.edu/~coughlid), [B. Chang](http://www.cs.colorado.edu/~bec/)
+  [D. Coughlin](http://www.cs.colorado.edu/~coughlid),
+  [B. Chang](http://www.cs.colorado.edu/~bec/)
 
 - Tabular: A Schema-Driven Probabilistic Programming Language.   
   (no preprint found),  
   [A. Gordon](https://skydrive.live.com/view.aspx/adg?cid=c6149b019d236bf5),
   [T. Graepel](http://research.microsoft.com/en-us/people/thoreg/),
-  N. Rolland, C. Russo, J. Borgström, J. Guiver
+  N. Rolland, C. Russo,
+  [J. Borgström](https://www.it.uu.se/katalog/johbo484),
+  J. Guiver
 
 - Effect-Delimited Monad.   
   (no preprint found),  
@@ -69,25 +83,34 @@ add a line break after each link.
 - Verifying Eventual Consistency of Optimistic Replication Systems.   
   ([preprint](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2014.pdf))
   ([previous related work](http://www.liafa.univ-paris-diderot.fr/~cenea/esop2013-lin-long.pdf)),  
-  [A. Bouajjani](http://www.liafa.jussieu.fr/~abou/), [C. Enea](http://www.liafa.univ-paris-diderot.fr/~cenea/), J. Hamza
+  [A. Bouajjani](http://www.liafa.jussieu.fr/~abou/),
+  [C. Enea](http://www.liafa.univ-paris-diderot.fr/~cenea/),
+  [J. Hamza](http://www.liafa.jussieu.fr/web9/equiprech/fichepers_en.php?id=363)
 
 - A Verified Information-Flow Architecture.   
   ([draft](http://www.infsec.cs.uni-saarland.de/~hritcu/publications/verified-ifc-draft.pdf)),  
   [A. Azevedo de Amorim](http://www.cis.upenn.edu/~aarthur),
-  N. Collins, A. DeHon, D. Demange,
+  [N. Collins](http://web.cecs.pdx.edu/~ntc2/),
+  [A. DeHon](http://www.seas.upenn.edu/~andre/),
+  [D. Demange](http://www.irisa.fr/celtique/demange/),
   [C. Hriţcu](http://www.infsec.cs.uni-saarland.de/~hritcu/),
-  D. Pichardie,
+  [D. Pichardie](http://www.irisa.fr/celtique/pichardie/),
   [B. Pierce](http://www.cis.upenn.edu/~bcpierce),
-  R. Pollack, A. Tolmach
+  [R. Pollack](http://homepages.inf.ed.ac.uk/rpollack/),
+  [A. Tolmach](http://web.cecs.pdx.edu/~apt/)
 
 - A non-standard standardization theorem.   
-  ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))
+  ([preprint](https://sites.google.com/site/beniaminoaccattoli/popl2014-submitted_version.pdf))  
   [B. Accattoli](https://sites.google.com/site/beniaminoaccattoli/),
-  E. Bonelli, D. Kesner, C. Lombardi
+  [E. Bonelli](http://www.lifia.info.unlp.edu.ar/en/eduardo.htm),
+  [D. Kesner](http://www.pps.univ-paris-diderot.fr/~kesner/),
+  C. Lombardi
 
 - On Coinductive Equivalences for Higher-Order Probabilistic Functional Programs.   
   (no preprint found),  
-  M. Alberti, U. Dal Lago, D. Sangiorgi
+  M. Alberti,
+  [U. Dal Lago](http://www.cs.unibo.it/~dallago/),
+  [D. Sangiorgi](http://www.cs.unibo.it/~sangio/)
 
 - Optimal Dynamic Partial Order Reduction.   
   ([preprint](http://user.it.uu.se/~parosh/publications/papers/popl2014.pdf)),  
