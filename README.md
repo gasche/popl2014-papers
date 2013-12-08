@@ -280,6 +280,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Yuliya Lierler and Mirek Truszczynski.   
 
 - Compiling DNA strand displacement reactions using a functional programming language.  
+  ([preprint](http://www.cs.unm.edu/~mlakin/papers/comdsd.pdf))  
   Matthew R. Lakin and Andrew Phillips.   
 
 - Sunroof: A Monadic DSL for Generating JavaScript.   
@@ -293,6 +294,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Miguel Areias and Ricardo Rocha.   
 
 - The F# Computation Expressions Zoo.   
+  ([preprint](http://tomasp.net/academic/papers/computation-zoo/computation-zoo.pdf))  
   Tomas Petricek and Don Syme.   
 
 - Embedding Foreign Code.   
@@ -300,6 +302,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Robert Clifton-Everest, Trevor L. Mcdonell, Manuel Chakravarty and Gabriele Keller.   
 
 - Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
+  ([preprint](http://hiperfit.dk/pdf/typelets_final.pdf))  
   Martin Elsman and Anders Schack-Nielsen.
 
 - Rx-CML: A Prescription for Safely Relaxing Synchrony.  
@@ -372,7 +375,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Huiqing Li, Simon Thompson, Pablo Lamela Seijas, Miguel Angel Francisco.  
 
 - Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
-  (no preprint found),  
+  ([preprint](http://ilyasergey.net/papers/gradual-pepm14.pdf)),  
   Álvaro Garca-Prez, Pablo Nogueira, Ilya Sergey.  
 
 - HIPimm: Verifying Granular Immutability Guarantees.   
