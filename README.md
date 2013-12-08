@@ -32,11 +32,11 @@ add a line break after each link.
   F. Long, S. Sidiroglou-Douskos, D. Kim, M. Rinard
 
 - Abstract Acceleration of General Linear Loops.   
-  (no preprint found),  
+  ([arxiv](http://arxiv.org/pdf/1311.0768.pdf)),  
   [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/), P. Schrammel, [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
 
 - Proofs that count.   
-  (no preprint found),  
+  ([preprint](http://www.cs.toronto.edu/~azadeh/resources/papers/popl14-counter.pdf)),  
   [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
   [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
   [A. Podelski](http://swt.informatik.uni-freiburg.de/staff/podelski)
@@ -61,13 +61,13 @@ add a line break after each link.
   [S. Katsumata](http://www.kurims.kyoto-u.ac.jp/~sinya/index-e.html)
 
 - Bias-Variance Tradeoffs in Program Analysis.   
-  (no preprint found),  
+  ([preprint](http://theory.stanford.edu/~aiken/publications/papers/popl14.pdf)),  
   [A. Aiken](http://theory.stanford.edu/~aiken/),
   [A. Nori](http://research.microsoft.com/en-us/people/adityan/),
   [R. Sharma](http://www.stanford.edu/~sharmar/)
 
 - Verifying Eventual Consistency of Optimistic Replication Systems.   
-  (no preprint found)
+  ([preprint](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2014.pdf))
   ([previous related work](http://www.liafa.univ-paris-diderot.fr/~cenea/esop2013-lin-long.pdf)),  
   [A. Bouajjani](http://www.liafa.jussieu.fr/~abou/), [C. Enea](http://www.liafa.univ-paris-diderot.fr/~cenea/), J. Hamza
 
@@ -90,7 +90,7 @@ add a line break after each link.
   M. Alberti, U. Dal Lago, D. Sangiorgi
 
 - Optimal Dynamic Partial Order Reduction.   
-  (no preprint found),  
+  ([preprint](http://user.it.uu.se/~parosh/publications/papers/popl2014.pdf)),  
   [P. Abdulla](http://user.it.uu.se/~parosh/),
   [S. Aronis](http://www.it.uu.se/katalog/staar721),
   [B. Jonsson](http://user.it.uu.se/~bengt/),
@@ -107,7 +107,7 @@ add a line break after each link.
   [N. Tzevelekos](http://www.tzevelekos.org/)
 
 - A Sound and Complete Abstraction for Reasoning About Parallel Prefix Sums.   
-  (no preprint found),  
+  ([preprint](http://www.doc.ic.ac.uk/~nyc04/papers/popl14.pdf)),  
   [N. Chong](http://www.doc.ic.ac.uk/~nyc04/),
   [A. Donaldson](http://www.doc.ic.ac.uk/~afd/),
   [J. Ketema](http://www.ketema.eu/)
@@ -126,7 +126,7 @@ add a line break after each link.
   C. Casinghino, V. Sjoeberg, S. Weirich
 
 - Consistency Analysis of Decision-Making Programs.   
-  (no preprint found),  
+  ([preprint](http://www.cs.rice.edu/~sc40/pubs/popl14-geometry.pdf)),  
   [S. Chaudhuri](http://www.cs.rice.edu/~sc40/),
   [A. Farzan](http://www.cs.toronto.edu/~azadeh/research/research.html),
   [Z. Kincaid](http://www.cs.toronto.edu/~zkincaid/),
@@ -174,9 +174,11 @@ add a line break after each link.
   S. Kilpatrick, D. Dreyer, S. Peyton Jones, S. Marlow
 
 - Symbolic Optimization with SMT Solvers.   
+  ([preprint](http://www.cs.toronto.edu/~zkincaid/pub/popl14c.pdf)),  
   Y. Li, A. Albarghouthi, Z. Kincaid, A. Gurfinkel, M. Chechik
 
 - Applying quantitative semantics to higher-order quantum computing.   
+  ([arxiv](http://arxiv.org/abs/1311.2290.pdf)),  
   M. Pagani, P. Selinger, B. Valiron
 
 - Replicated Data Types: Specification, Verification, Optimality.  
@@ -202,6 +204,7 @@ add a line break after each link.
   M. Clochard, S. Chaudhuri, A. Solar-Lezama
 
 - CakeML: A Verified Implementation of ML.   
+  ([preprint](https://cakeml.org/popl14.pdf)),  
   R. Kumar, M. Myreen, S. Owens, M. Norrish
 
 - From Parametricity to Conservation Laws, via Noether's Theorem.   
@@ -213,15 +216,19 @@ add a line break after each link.
   G. Castagna, K. Nguyễn, Z. Xu, H. Im, S. Lenglet, L. Padovani
 
 - A Constraint-Based Approach to Solving Games on Infinite Graphs.   
+  ([preprint](http://www7.in.tum.de/~popeea/research/games.popl14.pdf)),  
   T. Beyene, S. Chaudhuri, C. Popeea, A. Rybalchenko
 
 - Tracing Compilation by Abstract Interpretation.   
+  ([preprint](http://www.math.unipd.it/~ranzato/papers/popl14.pdf)),  
   S. Dissegna, F. Logozzo, F. Ranzato
 
 - Counter-Factual Typing for Debugging Type Errors.   
+  ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/CF-Typing_POPL14.pdf)),  
   S. Chen, M. Erwig
 
 - Modular, Higher-Order Cardinality Analysis in Theory and Practice.   
+  ([extended version](https://research.microsoft.com/pubs/204260/cardinality-extended.pdf)),  
   I. Sergey, D. Vytiniotis, S. Peyton Jones
 
 - Modular Reasoning on Unique Heap Paths via Effectively Propositional Formulas.   
@@ -238,6 +245,7 @@ add a line break after each link.
   [P. Johann](https://personal.cis.strath.ac.uk/patricia.johann/)
 
 - A Trusted Mechanised JavaScript Specification.   
+  ([preprint](http://hal.inria.fr/docs/00/91/01/35/PDF/jscert_popl.pdf)),  
   M. Bodin, A. Charguéraud, D. Filaretti, P. Gardner, S. Maffeis, D. Naudziuniene, A. Schmitt, G. Smith
 
 - An operational and axiomatic semantics for non-determinism and sequence points in C.   
@@ -260,6 +268,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Tran Cao Son, Enrico Pontelli and Tiep Le.  
 
 - Partial Type Signatures for Haskell.  
+  ([extended version](http://people.cs.kuleuven.be/~dominique.devriese/hpts-ext.pdf))  
   Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.   
 
 - Towards Modeling Morality Computationally with Logic Programming.  
