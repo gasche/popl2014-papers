@@ -323,55 +323,42 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 ### PEPM
 
 - Semantic Bidirectionalization Revisited.   
-  (no preprint found),  
   Meng Wang, Shayan Najd.  
 
 - Optimizing SYB is Easy!.   
-  (no preprint found),  
   Michael D. Adams, Andrew Farmer, Jos Pedro Magalhes.  
 
 - Early Detection of Type Errors in C++ Templates.   
-  (no preprint found),  
   Sheng Chen, Martin Erwig.  
 
 - An Operational Semantics for Android Activities.   
-  (no preprint found),  
   Étienne Payet, Fausto Spoto.  
 
 - QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
-  (no preprint found),  
   Gabriel Kerneis, Charlie Shepherd, Stefan Hajnoczi.  
 
 - Type-Changing Rewriting and Semantics-Preserving Transformation.   
-  (no preprint found),  
   Sean Leather, Johan Jeuring, Andres Löh, Bram Schuur.  
 
 - Lazy Stateless Incremental Evaluation Machinery for Attribute Grammars.   
-  (no preprint found),  
   Jeroen Bransen, Atze Dijkstra, Doaitse Swierstra.  
 
 - The HERMIT in the Stream.   
-  (no preprint found),  
   Andrew Farmer, Christian Hoener Zu Siederdissen, Andy Gill.  
 
 - Monadic Combinators for "Putback" Style Bidirectional Programming.   
-  (no preprint found),  
   Hugo Pacheco, Zhenjiang Hu, Sebastian Fischer.  
 
 - Effective Quotation.   
-  (no preprint found),  
   James Cheney, Sam Lindley, Gabriel Radanne, Philip Wadler.  
 
 - Compile-time Reflection and Metaprogramming for Java.   
-  (no preprint found),  
   Weiyu Miao, Jeremy Siek.  
 
 - Combinators for Impure yet Hygienic Code Generation.   
-  (no preprint found),  
   Yukiyoshi Kameyama, Oleg Kiselyov, Chung-Chieh Shan.  
 
 - Automating Property-based Testing of Evolving Web Services.   
-  (no preprint found),  
   Huiqing Li, Simon Thompson, Pablo Lamela Seijas, Miguel Angel Francisco.  
 
 - Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
@@ -379,145 +366,110 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Álvaro Garca-Prez, Pablo Nogueira, Ilya Sergey.  
 
 - HIPimm: Verifying Granular Immutability Guarantees.   
-  (no preprint found),  
   Andreea Costea, Asankhaya Sharma, Cristina David.  
 
 - A Modular and Generic Analysis Server System for Functional Logic Programs.   
-  (no preprint found),  
   Michael Hanus, Fabian Skrlac.  
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
-  (no preprint found),  
   Pedro Martins, Joo Paulo Fernandes, Joo Saraiva, Eric Van Wyk.  
 
 ### PLPV
 
 - Programming Languages for High-Assurance Autonomous Vehicles..   
-  (no preprint found),  
   [Lee Pike](http://www.cs.indiana.edu/~lepike/).  
 
 - The Recursive Polarized Dual Calculus..   
-  (no preprint found),  
   [Aaron Stump](http://www.cs.uiowa.edu/~astump).  
 
 - Substructural Typestates..   
-  (no preprint found),  
   Filipe Militao, [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/) and [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/).  
 
 - Refinement Types For Haskell..   
-  (no preprint found),  
   [Ranjit Jhala](http://goto.ucsd.edu/~rjhala/).  
 
 - Verified Programs with Binders..   
-  (no preprint found),  
   Martin Clochard, [Claude Marché](http://www.lri.fr/~marche/) and [Andrei Paskevich](http://tertium.org/).  
 
 - Formalizing a Correctness Property of a Type-Directed Partial Evaluator..   
-  (no preprint found),  
   Noriko Hirota and [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai).  
 
 - An Abstract Categorical Semantics for Functional Reactive Programming with Processes..   
-  (no preprint found),  
   [Wolfgang Jeltsch](http://wolfgang.jeltsch.info/).  
 
 ### VMCAI
 
 - Practical Floating-Point Tests with Integer Code.   
-  (no preprint found),  
   Anthony Romano.  
 
 - Weakest Precondition Synthesis for Compiler Optimizations.   
-  (no preprint found),  
   [Nuno P. Lopes](http://web.ist.utl.pt/nuno.lopes/) and Jose Monteiro  
 
 - Precise analysis of value-dependent synchronization in programs with priority scheduling.   
-  (no preprint found),  
   Martin Schwarz, [Helmut Seidl](http://www2.in.tum.de/), Vesal Vojdani and [Kalmer Apinis](http://www2.in.tum.de/~kalmera/)  
 
 - Deciding Control State Reachability in Concurrent Traces with Limited Observability.   
-  (no preprint found),  
   [Chao Wang](http://www.ece.vt.edu/chaowang) and Kevin Hoang  
 
 - Monitoring Parametric Temporal Logic.   
-  (no preprint found),  
   [Peter Faymonville](http://www.react.uni-saarland.de/people/faymonville.html), [Bernd Finkbeiner](http://www.react.uni-saarland.de/people/finkbeiner.html) and [Doron Peled](http://www.dcs.warwick.ac.uk/~doron)  
 
 - SAT-Based Synthesis Methods for Safety Specs.   
-  (no preprint found),  
   [Roderick Bloem](http://www.ist.tugraz.at/bloem), [Robert Koenighofer](http://www.iaik.tugraz.at/koenighofer) and [Martina Seidl](http://fmv.jku.at/seidl/)  
 
 - Bisimulations and Logical Characterizations on Continuous-time Markov Decision Processes.   
-  (no preprint found),  
   [Lei Song](http://depend.cs.uni-sb.de/~song/index.html), [Lijun Zhang](http://www2.imm.dtu.dk/~lizh/) and [Jens Chr. Godskesen](http://www.itu.dk/people/jcg)  
 
 - Doomsday Equilibria for Omega-Regular Games.   
-  (no preprint found),  
   [Krishnendu Chatterjee](http://pub.ist.ac.at/~kchatterjee/), [Laurent Doyen](http://www.lsv.ens-cachan.fr/~doyen/), [Emmanuel Filiot](http://www.ulb.ac.be/di/ssd/filiot) and [Jean-Francois Raskin](http://www.ulb.ac.be/di/ssd/jfr)  
 
 - Policy Iteration-based Conditional Termination and Ranking Functions.   
-  (no preprint found),  
   [Damien Massé](http://lab-sticc.univ-brest.fr/~dmasse/)  
 
 - Timing Analysis of Parallel Software Using Abstract Execution.   
-  (no preprint found),  
   [Andreas Gustavsson](http://www.mrtc.mdh.se/index.php?choice=staff&id=0380), [Jan Gustafsson](http://www.idt.mdh.se/personal/jgn/) and [Björn Lisper](http://www.idt.mdh.se/~blr/)  
 
 - Parameterized Model Checking of Token-Passing Systems.   
-  (no preprint found),  
   Benjamin Aminof, Swen Jacobs, Ayrat Khalimov and Sasha Rubin  
 
 - Generic Combination of Heap and Value Analyses in Abstract Interpretation.   
-  (no preprint found),  
   [Pietro Ferrara](http://www.pietro.ferrara.name/)  
 
 - Verifying Array Programs by Transforming Verification Conditions.   
-  (no preprint found),  
   Emanuele De Angelis, [Fabio Fioravanti](http://fioravanti.sci.unich.it/), [Alberto Pettorossi](http://www.iasi.cnr.it/~adp/) and [Maurizio Proietti](http://www.iasi.cnr.it/~proietti/)  
 
 - A Logic-based Framework for Verifying Consensus Algorithms.   
-  (no preprint found),  
   [Cezara Dragoi](http://pub.ist.ac.at/~cezarad/), [Thomas A. Henzinger](http://pub.ist.ac.at/~tah/), Helmut Veith, Josef Widder and [Damien Zufferey](http://pub.ist.ac.at/~zufferey/)  
 
 - Relational Thread-Modular Static Value Analysis by Abstract Interpretation.   
-  (no preprint found),  
   [Antoine Miné](http://www.di.ens.fr/~mine/)  
 
 - Modular Synthesis of Sketches using Models.   
-  (no preprint found),  
   Rohit Singh, Rishabh Singh, Zhilei Xu, Rebecca Krosnick and Armando Solar-Lezama  
 
 - Widening for Control-Flow.   
-  (no preprint found),  
   [Ben Hardekopf](http://www.cs.ucsb.edu/~benh), [Ben Wiedermann](http://www.cs.hmc.edu/~benw/), [Berkeley Churchill](http://www.berkeleychurchill.com/) and Vineeth Kashyap  
 
 - Synthesis with Identifiers.   
-  (no preprint found),  
   [Rüdiger Ehlers](http://react.cs.uni-saarland.de/people/ehlers.html), [Sanjit A. Seshia](http://www.eecs.berkeley.edu/~sseshia) and [Hadas Kress-Gazit](http://web.mae.cornell.edu/hadaskg/)  
 
 - Synthesis for Polynomial Lasso Programs.   
-  (no preprint found),  
   Jan Leike and [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/)  
 
 - Probabilistic Automata for Safety LTL Specifications.   
-  (no preprint found),  
   Dileep Kini and Mahesh Viswanathan  
 
 - Safety Problems are NP-complete for Flat Integer Programs with Octagonal Loops.   
-  (no preprint found),  
   [Radu Iosif](http://www-verimag.imag.fr/~iosif/), [Marius Bozga](http://www-verimag.imag.fr/~bozga) and [Filip Konecny](http://personnes.epfl.ch/filip.konecny)  
 
 - Modelling parsimonious putative regulatory networks: complexity and heuristic approaches.   
-  (no preprint found),  
   [Vicente Acuña](http://www.cmm.uchile.cl/), [Andres Aravena](http://www.mathomics.cl/), [Alejandro Maass](http://www.dim.uchile.cl/) and Anne Siegel  
 
 - Message Passing Algorithms for the Verification of Distributed Protocols.   
-  (no preprint found),  
   [Loig Jezequel](http://www7.in.tum.de/~jezequel/index2.html) and [Javier Esparza](http://www7.in.tum.de/~esparza)  
 
 - Modularly Combining Numeric Abstract Domains with Points-to Analysis, and a Scalable Static Numeric Analyzer for Java.   
-  (no preprint found),  
   Zhoulai Fu  
 
 - Cascade 2.0 (Tool Paper).   
-  (no preprint found),  
   [Wei Wang](http://cims.nyu.edu/~wwang1109/index.html), [Clark Barrett](http://www.cs.nyu.edu/~barrett/) and [Thomas Wies](http://cs.nyu.edu/~wies)  
