@@ -372,60 +372,85 @@ they become available.)
 The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2014/papers.html).
 
 - Two Applications of the ASP-Prolog System: Decomposable Programs and Multi-context Systems.  
-  Tran Cao Son, Enrico Pontelli and Tiep Le.
+  (no preprint found)  
+  [Tran Cao Son](http://www.cs.nmsu.edu/~tson/),
+  [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/),
+  Tiep Le.
 
 - Partial Type Signatures for Haskell.  
   ([extended version](http://people.cs.kuleuven.be/~dominique.devriese/hpts-ext.pdf))  
-  Thomas Winant, Dominique Devriese, Frank Piessens and Tom Schrijvers.
+  [Thomas Winant](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0077815),
+  [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0043379),
+  [Frank Piessens](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0018905),
+  [Tom Schrijvers](http://users.ugent.be/~tschrijv/).
 
 - Towards Modeling Morality Computationally with Logic Programming.  
   ([preprint](http://centria.di.fct.unl.pt/~lmp/publications/online-papers/padl-14.pdf))  
-  Ari Saptawijaya and Luís Moniz Pereira.
+  [Ari Saptawijaya](http://unl-pt.academia.edu/AriSaptawijaya),
+  [Luís Moniz Pereira](http://centria.di.fct.unl.pt/~lmp/).
 
 - Abstract Modular Inference Systems and Solvers.  
   ([preprint](http://www.cs.utexas.edu/users/tag/papers-ailab2/ams-aspocp.pdf))    
-  Yuliya Lierler and Mirek Truszczynski.
+  [Yuliya Lierler](http://faculty.ist.unomaha.edu/ylierler/),
+  [Mirek Truszczynski](http://www.cs.uky.edu/~mirek/).
 
 - Compiling DNA strand displacement reactions using a functional programming language.  
   ([preprint](http://www.cs.unm.edu/~mlakin/papers/comdsd.pdf))  
-  Matthew R. Lakin and Andrew Phillips.
+  [Matthew R. Lakin](http://www.cs.unm.edu/~mlakin/),
+  [Andrew Phillips](https://research.microsoft.com/en-us/people/aphillip/).
 
 - Sunroof: A Monadic DSL for Generating JavaScript.   
   ([preprint](http://faculty.cs.byu.edu/~jay/conferences/2013-tfp/proceedings/tfp2013_submission_13.pdf))   
-  Andy Gill and Jan Bracker.
+  [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html),
+  [Jan Bracker](http://www.ittc.ku.edu/csdl/fpg/users/janbracker.html).
 
 - Exploring the Use of GPUs in Constraint Solving.   
-  Federico Campeotto, Alessandro Dal Palù, Agostino Dovier, Ferdinando Fioretto and Enrico Pontelli.
+  [Federico Campeotto](http://www.cs.nmsu.edu/~fcampeot/Campe8/Welcome.html),
+  [Alessandro Dal Palù](http://www2.unipr.it/~dalpalu/),
+  [Agostino Dovier](http://users.dimi.uniud.it/~agostino.dovier/),
+  [Ferdinando Fioretto](http://www.cs.nmsu.edu/~ffiorett/),
+  [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/).
 
 - On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
-  Miguel Areias and Ricardo Rocha.
+  Miguel Areias,
+  [Ricardo Rocha](http://www.dcc.fc.up.pt/~ricroc/).
 
 - The F# Computation Expressions Zoo.   
   ([preprint](http://tomasp.net/academic/papers/computation-zoo/computation-zoo.pdf))  
-  Tomas Petricek and Don Syme.
+  [Tomas Petricek](http://tomasp.net/),
+  [Don Syme](https://research.microsoft.com/en-us/people/dsyme/).
 
 - Embedding Foreign Code.   
   ([preprint](http://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf))   
-  Robert Clifton-Everest, Trevor L. Mcdonell, Manuel Chakravarty and Gabriele Keller.
+  Robert Clifton-Everest,
+  [Trevor L. McDonell](http://www.cse.unsw.edu.au/~tmcdonell/),
+  [Manuel Chakravarty](http://www.cse.unsw.edu.au/~chak/),
+  [Gabriele Keller](http://www.cse.unsw.edu.au/~keller/).
 
 - Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
   ([preprint](http://hiperfit.dk/pdf/typelets_final.pdf))  
-  Martin Elsman and Anders Schack-Nielsen.
+  [Martin Elsman](http://www.elsman.com/),
+  [Anders Schack-Nielsen](https://www.itu.dk/people/anderssn/).
 
 - Rx-CML: A Prescription for Safely Relaxing Synchrony.  
   ([preprint](http://multimlton.cs.purdue.edu/mML/Publications_files/padl14.pdf))   
-  KC Sivaramakrishnan, Lukasz Ziarek and Suresh Jagannathan.
+  [KC Sivaramakrishnan](https://www.cs.purdue.edu/homes/chandras/),
+  [Lukasz Ziarek](http://www.cse.buffalo.edu/~lziarek/),
+  [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
 
 - Panext: Towards an extendible Pandoc system.   
-  Jacco O.G. Krijnen, Doaitse Swierstra and Marcos O. Viera.
+  Jacco O.G. Krijnen,
+  [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/),
+  [Marcos O. Viera](http://www.fing.edu.uy/~mviera/).
 
 - A Declarative Specification of Giant Number Arithmetic.  
   ([arxiv](http://arxiv.org/abs/1307.4642))  
-  Paul Tarau.
+  [Paul Tarau](http://logic.cse.unt.edu/tarau/).
 
 - Generic Generic Programming.   
   ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
-  José Pedro Magalhães and Andres Löh.
+  [José Pedro Magalhães](http://dreixel.net/),
+  [Andres Löh](http://www.andres-loeh.de/).
 
 ### PEPM
 
