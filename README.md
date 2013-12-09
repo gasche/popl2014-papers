@@ -456,11 +456,14 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 - Semantic Bidirectionalization Revisited.   
   (no preprint found)  
-  Meng Wang, Shayan Najd.
+  [Meng Wang](http://www.cs.ox.ac.uk/people/meng.wang/),
+  Shayan Najd.
 
 - Optimizing SYB is Easy!.   
   ([preprint](http://michaeldadams.org/papers/syb-opt/))  
-  Michael D. Adams, Andrew Farmer, Jos Pedro Magalhes.
+  [Michael D. Adams](http://michaeldadams.org/),
+  [Andrew Farmer](http://www.ittc.ku.edu/csdl/fpg/users/andrewfarmer.html),
+  [José Pedro Magalhães](http://dreixel.net/).
 
 - Early Detection of Type Errors in C++ Templates.   
   ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/C++TemplateErrors_PEPM14.pdf))  
@@ -469,59 +472,86 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 - An Operational Semantics for Android Activities.   
   (no preprint found)  
-  Étienne Payet, Fausto Spoto.
+  [Étienne Payet](http://lim.univ-reunion.fr/staff/epayet/),
+  [Fausto Spoto](http://profs.sci.univr.it/~spoto/).
 
 - QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
   ([arxiv](http://arxiv.org/abs/1310.3404.pdf))  
-  Gabriel Kerneis, Charlie Shepherd, Stefan Hajnoczi.
+  [Gabriel Kerneis](http://gabriel.kerneis.info/),
+  Charlie Shepherd,
+  [Stefan Hajnoczi](http://blog.vmsplice.net/).
 
 - Type-Changing Rewriting and Semantics-Preserving Transformation.   
   ([technical report](http://www.cs.uu.nl/research/techreps/repo/CS-2013/2013-017.pdf))  
-  Sean Leather, Johan Jeuring, Andres Löh, Bram Schuur.
+  [Sean Leather](http://www.cs.uu.nl/staff/leather.html),
+  [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/),
+  [Andres Löh](http://www.andres-loeh.de/),
+  Bram Schuur.
 
 - Lazy Stateless Incremental Evaluation Machinery for Attribute Grammars.   
   ([preprint](http://www.staff.science.uu.nl/~brans106/lsiag-machinery.pdf))  
-  Jeroen Bransen, Atze Dijkstra, Doaitse Swierstra.
+  [Jeroen Bransen](http://www.cs.uu.nl/staff/bransen.html),
+  [Atze Dijkstra](http://www.cs.uu.nl/wiki/Atze/),
+  [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/).
 
 - The HERMIT in the Stream.   
   (no preprint found)  
-  Andrew Farmer, Christian Hoener Zu Siederdissen, Andy Gill.
+  Andrew Farmer,
+  [Christian Hoener Zu Siederdissen](http://www.tbi.univie.ac.at/~choener/),
+  [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html).
 
 - Monadic Combinators for "Putback" Style Bidirectional Programming.   
   ([preprint](http://www.prg.nii.ac.jp/members/hpacheco/publications/pepm14.pdf))  
-  Hugo Pacheco, Zhenjiang Hu, Sebastian Fischer.
+  [Hugo Pacheco](http://www.prg.nii.ac.jp/members/hpacheco/),
+  [Zhenjiang Hu](http://research.nii.ac.jp/~hu/),
+  [Sebastian Fischer](http://www-ps.informatik.uni-kiel.de/~sebf/).
 
 - Effective Quotation.   
   ([arxiv](http://arxiv.org/abs/1310.4780.pdf))  
-  James Cheney, Sam Lindley, Gabriel Radanne, Philip Wadler.
+  [James Cheney](http://homepages.inf.ed.ac.uk/jcheney/),
+  [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/),
+  Gabriel Radanne,
+  [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/).
 
 - Compile-time Reflection and Metaprogramming for Java.   
   (no preprint found)  
-  Weiyu Miao, Jeremy Siek.
+  Weiyu Miao,
+  [Jeremy Siek](http://homes.soic.indiana.edu/jsiek/).
 
 - Combinators for Impure yet Hygienic Code Generation.   
   (no preprint found)  
-  Yukiyoshi Kameyama, Oleg Kiselyov, Chung-Chieh Shan.
+  [Yukiyoshi Kameyama](http://logic.cs.tsukuba.ac.jp/~kam/),
+  [Oleg Kiselyov](http://okmij.org/ftp/),
+  [Chung-Chieh Shan](https://www.cs.rutgers.edu/~ccshan/).
 
 - Automating Property-based Testing of Evolving Web Services.   
   ([preprint](http://www.cs.kent.ac.uk/people/staff/sjt/Prowess/ws_testing.pdf))  
-  Huiqing Li, Simon Thompson, Pablo Lamela Seijas, Miguel Angel Francisco.
+  [Huiqing Li](http://www.cs.kent.ac.uk/people/staff/hl/),
+  [Simon Thompson](http://www.cs.kent.ac.uk/people/staff/sjt/),
+  [Pablo Lamela Seijas](https://www.cs.kent.ac.uk/people/rpg/pl240/),
+  Miguel Angel Francisco.
 
 - Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
   ([preprint](http://ilyasergey.net/papers/gradual-pepm14.pdf)),  
-  Álvaro Garca-Prez, Pablo Nogueira, Ilya Sergey.
+  [Álvaro Garca-Prez](http://software.imdea.org/people/alvaro.garcia.perez/),
+  [Pablo Nogueira](http://babel.ls.fi.upm.es/~pablo/),
+  [Ilya Sergey](http://ilyasergey.net/).
 
 - HIPimm: Verifying Granular Immutability Guarantees.   
   ([preprint](http://www.comp.nus.edu.sg/~asankhs/pdf/HIPimm.pdf))  
-  Andreea Costea, Asankhaya Sharma, Cristina David.
+  [Andreea Costea](http://www.comp.nus.edu.sg/~andreeac/),
+  [Asankhaya Sharma](http://www.comp.nus.edu.sg/~asankhs/),
+  [Cristina David](http://www.cs.ox.ac.uk/people/cristina.david/).
 
 - A Modular and Generic Analysis Server System for Functional Logic Programs.   
   (no preprint found)  
-  Michael Hanus, Fabian Skrlac.
+  [Michael Hanus](http://www.informatik.uni-kiel.de/~mh/),
+  Fabian Skrlac.
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
   (no preprint found)  
-  Pedro Martins, Joo Paulo Fernandes, Joo Saraiva, Eric Van Wyk.
+  Pedro Martins, Joo Paulo Fernandes, Joo Saraiva,
+  [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/).
 
 ### PLPV
 
