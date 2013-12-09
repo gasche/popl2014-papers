@@ -565,7 +565,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 
 - Substructural Typestates.   
   ([preprint](https://www.cs.cmu.edu/~foliveir/papers/plpv14-paper.pdf))  
-  Filipe Militao,
+  [Filipe Militao](https://www.cs.cmu.edu/~foliveir/),
   [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/),
   [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/).
 
