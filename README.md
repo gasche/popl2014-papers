@@ -107,8 +107,8 @@ add a line break after each link.
   C. Lombardi
 
 - On Coinductive Equivalences for Higher-Order Probabilistic Functional Programs.   
-  (no preprint found),  
-  M. Alberti,
+  ([arxiv](http://arxiv.org/abs/1311.1722)),  
+  [M. Alberti](http://alberti.web.cs.unibo.it/),
   [U. Dal Lago](http://www.cs.unibo.it/~dallago/),
   [D. Sangiorgi](http://www.cs.unibo.it/~sangio/)
 
@@ -462,7 +462,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 - Optimizing SYB is Easy!.   
   ([preprint](http://michaeldadams.org/papers/syb-opt/))  
   [Michael D. Adams](http://michaeldadams.org/),
-  [Andrew Farmer](http://www.ittc.ku.edu/csdl/fpg/users/andrewfarmer.html),
+  [Andrew Farmer](http://andrewfarmer.name/),
   [José Pedro Magalhães](http://dreixel.net/).
 
 - Early Detection of Type Errors in C++ Templates.   
@@ -495,8 +495,8 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/).
 
 - The HERMIT in the Stream.   
-  (no preprint found)  
-  Andrew Farmer,
+  ([preprint](http://www.ittc.ku.edu/~afarmer/concatmap-pepm14.pdf))  
+  [Andrew Farmer](http://andrewfarmer.name/),
   [Christian Hoener Zu Siederdissen](http://www.tbi.univie.ac.at/~choener/),
   [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html).
 
@@ -544,13 +544,16 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Cristina David](http://www.cs.ox.ac.uk/people/cristina.david/).
 
 - A Modular and Generic Analysis Server System for Functional Logic Programs.   
-  (no preprint found)  
+  (no preprint found)
+  ([similar](http://arxiv.org/abs/1307.4648)),  
   [Michael Hanus](http://www.informatik.uni-kiel.de/~mh/),
   Fabian Skrlac.
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
   (no preprint found)  
-  Pedro Martins, Joo Paulo Fernandes, Joo Saraiva,
+  [Pedro Martins](http://wiki.di.uminho.pt/twiki/bin/view/Personal/PedroMartins/),
+  [João Paulo Fernandes](http://alfa.di.uminho.pt/~jpaulo/),
+  [João Saraiva](http://www3.di.uminho.pt/~jas/),
   [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/).
 
 ### PLPV
@@ -574,7 +577,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Ranjit Jhala](http://goto.ucsd.edu/~rjhala/).
 
 - Verified Programs with Binders.   
-  (no preprint found)  
+  ([preprint](http://hal.inria.fr/docs/00/91/34/31/PDF/plpv03-clochard.pdf))  
   [Martin Clochard](https://www.lri.fr/~clochard/),
   [Claude Marché](http://www.lri.fr/~marche/),
   [Andrei Paskevich](http://tertium.org/).
@@ -595,9 +598,10 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Anthony Romano.
 
 - Weakest Precondition Synthesis for Compiler Optimizations.   
-  (no preprint found)  
+  ([abstract](http://web.ist.utl.pt/nuno.lopes/pubs.php?id=psyco-vmcai14))
+  (no preprint found),  
   [Nuno P. Lopes](http://web.ist.utl.pt/nuno.lopes/),
-  Jose Monteiro
+  José Monteiro
 
 - Precise analysis of value-dependent synchronization in programs with priority scheduling.   
   (no preprint found)  
