@@ -251,7 +251,7 @@ add a line break after each link.
   [S. Burckhardt](http://research.microsoft.com/en-us/people/sburckha/),
   [A. Gotsman](http://software.imdea.org/~gotsman/),
   [H. Yang](http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html),
-  [M. Zawirski](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1120&LANG=en) 
+  [M. Zawirski](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1120&LANG=en)
 
 - NetKAT: Semantic Foundations for Networks.   
   ([preprint](http://www.cs.cornell.edu/~kozen/papers/NetKAT.pdf)),  
@@ -375,227 +375,227 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   (no preprint found)  
   [Tran Cao Son](http://www.cs.nmsu.edu/~tson/),
   [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/),
-  Tiep Le.
+  Tiep Le
 
 - Partial Type Signatures for Haskell.  
   ([extended version](http://people.cs.kuleuven.be/~dominique.devriese/hpts-ext.pdf))  
   [Thomas Winant](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0077815),
   [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0043379),
   [Frank Piessens](https://distrinet.cs.kuleuven.be/people/showMember.do?memberID=u0018905),
-  [Tom Schrijvers](http://users.ugent.be/~tschrijv/).
+  [Tom Schrijvers](http://users.ugent.be/~tschrijv/)
 
 - Towards Modeling Morality Computationally with Logic Programming.  
   ([preprint](http://centria.di.fct.unl.pt/~lmp/publications/online-papers/padl-14.pdf))  
   [Ari Saptawijaya](http://unl-pt.academia.edu/AriSaptawijaya),
-  [Luís Moniz Pereira](http://centria.di.fct.unl.pt/~lmp/).
+  [Luís Moniz Pereira](http://centria.di.fct.unl.pt/~lmp/)
 
 - Abstract Modular Inference Systems and Solvers.  
   ([preprint](http://www.cs.utexas.edu/users/tag/papers-ailab2/ams-aspocp.pdf))    
   [Yuliya Lierler](http://faculty.ist.unomaha.edu/ylierler/),
-  [Mirek Truszczynski](http://www.cs.uky.edu/~mirek/).
+  [Mirek Truszczynski](http://www.cs.uky.edu/~mirek/)
 
 - Compiling DNA strand displacement reactions using a functional programming language.  
   ([preprint](http://www.cs.unm.edu/~mlakin/papers/comdsd.pdf))  
   [Matthew R. Lakin](http://www.cs.unm.edu/~mlakin/),
-  [Andrew Phillips](https://research.microsoft.com/en-us/people/aphillip/).
+  [Andrew Phillips](https://research.microsoft.com/en-us/people/aphillip/)
 
 - Sunroof: A Monadic DSL for Generating JavaScript.   
   ([preprint](http://faculty.cs.byu.edu/~jay/conferences/2013-tfp/proceedings/tfp2013_submission_13.pdf))   
   [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html),
-  [Jan Bracker](http://www.ittc.ku.edu/csdl/fpg/users/janbracker.html).
+  [Jan Bracker](http://www.ittc.ku.edu/csdl/fpg/users/janbracker.html)
 
 - Exploring the Use of GPUs in Constraint Solving.   
   [Federico Campeotto](http://www.cs.nmsu.edu/~fcampeot/Campe8/Welcome.html),
   [Alessandro Dal Palù](http://www2.unipr.it/~dalpalu/),
   [Agostino Dovier](http://users.dimi.uniud.it/~agostino.dovier/),
   [Ferdinando Fioretto](http://www.cs.nmsu.edu/~ffiorett/),
-  [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/).
+  [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/)
 
 - On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
   Miguel Areias,
-  [Ricardo Rocha](http://www.dcc.fc.up.pt/~ricroc/).
+  [Ricardo Rocha](http://www.dcc.fc.up.pt/~ricroc/)
 
 - The F# Computation Expressions Zoo.   
   ([preprint](http://tomasp.net/academic/papers/computation-zoo/computation-zoo.pdf))  
   [Tomas Petricek](http://tomasp.net/),
-  [Don Syme](https://research.microsoft.com/en-us/people/dsyme/).
+  [Don Syme](https://research.microsoft.com/en-us/people/dsyme/)
 
 - Embedding Foreign Code.   
   ([preprint](http://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf))   
   Robert Clifton-Everest,
   [Trevor L. McDonell](http://www.cse.unsw.edu.au/~tmcdonell/),
   [Manuel Chakravarty](http://www.cse.unsw.edu.au/~chak/),
-  [Gabriele Keller](http://www.cse.unsw.edu.au/~keller/).
+  [Gabriele Keller](http://www.cse.unsw.edu.au/~keller/)
 
 - Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces.   
   ([preprint](http://hiperfit.dk/pdf/typelets_final.pdf))  
   [Martin Elsman](http://www.elsman.com/),
-  [Anders Schack-Nielsen](https://www.itu.dk/people/anderssn/).
+  [Anders Schack-Nielsen](https://www.itu.dk/people/anderssn/)
 
 - Rx-CML: A Prescription for Safely Relaxing Synchrony.  
   ([preprint](http://multimlton.cs.purdue.edu/mML/Publications_files/padl14.pdf))   
   [KC Sivaramakrishnan](https://www.cs.purdue.edu/homes/chandras/),
   [Lukasz Ziarek](http://www.cse.buffalo.edu/~lziarek/),
-  [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/).
+  [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/)
 
 - Panext: Towards an extendible Pandoc system.   
   Jacco O.G. Krijnen,
   [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/),
-  [Marcos O. Viera](http://www.fing.edu.uy/~mviera/).
+  [Marcos O. Viera](http://www.fing.edu.uy/~mviera/)
 
 - A Declarative Specification of Giant Number Arithmetic.  
   ([arxiv](http://arxiv.org/abs/1307.4642))  
-  [Paul Tarau](http://logic.cse.unt.edu/tarau/).
+  [Paul Tarau](http://logic.cse.unt.edu/tarau/)
 
 - Generic Generic Programming.   
   ([preprint](http://dreixel.net/research/pdf/ggp_draft.pdf))  
   [José Pedro Magalhães](http://dreixel.net/),
-  [Andres Löh](http://www.andres-loeh.de/).
+  [Andres Löh](http://www.andres-loeh.de/)
 
 ### PEPM
 
 - Semantic Bidirectionalization Revisited.   
   (no preprint found)  
   [Meng Wang](http://www.cs.ox.ac.uk/people/meng.wang/),
-  Shayan Najd.
+  Shayan Najd
 
 - Optimizing SYB is Easy!.   
   ([preprint](http://michaeldadams.org/papers/syb-opt/))  
   [Michael D. Adams](http://michaeldadams.org/),
   [Andrew Farmer](http://andrewfarmer.name/),
-  [José Pedro Magalhães](http://dreixel.net/).
+  [José Pedro Magalhães](http://dreixel.net/)
 
 - Early Detection of Type Errors in C++ Templates.   
   ([preprint](http://web.engr.oregonstate.edu/~erwig/papers/C++TemplateErrors_PEPM14.pdf))  
   Sheng Chen,
-  [Martin Erwig](http://web.engr.oregonstate.edu/~erwig/).
+  [Martin Erwig](http://web.engr.oregonstate.edu/~erwig/)
 
 - An Operational Semantics for Android Activities.   
   (no preprint found)  
   [Étienne Payet](http://lim.univ-reunion.fr/staff/epayet/),
-  [Fausto Spoto](http://profs.sci.univr.it/~spoto/).
+  [Fausto Spoto](http://profs.sci.univr.it/~spoto/)
 
 - QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
   ([arxiv](http://arxiv.org/abs/1310.3404.pdf))  
   [Gabriel Kerneis](http://gabriel.kerneis.info/),
   Charlie Shepherd,
-  [Stefan Hajnoczi](http://blog.vmsplice.net/).
+  [Stefan Hajnoczi](http://blog.vmsplice.net/)
 
 - Type-Changing Rewriting and Semantics-Preserving Transformation.   
   ([technical report](http://www.cs.uu.nl/research/techreps/repo/CS-2013/2013-017.pdf))  
   [Sean Leather](http://www.cs.uu.nl/staff/leather.html),
   [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/),
   [Andres Löh](http://www.andres-loeh.de/),
-  Bram Schuur.
+  Bram Schuur
 
 - Lazy Stateless Incremental Evaluation Machinery for Attribute Grammars.   
   ([preprint](http://www.staff.science.uu.nl/~brans106/lsiag-machinery.pdf))  
   [Jeroen Bransen](http://www.cs.uu.nl/staff/bransen.html),
   [Atze Dijkstra](http://www.cs.uu.nl/wiki/Atze/),
-  [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/).
+  [Doaitse Swierstra](http://www.cs.uu.nl/wiki/Swierstra/)
 
 - The HERMIT in the Stream.   
   ([preprint](http://www.ittc.ku.edu/~afarmer/concatmap-pepm14.pdf))  
   [Andrew Farmer](http://andrewfarmer.name/),
   [Christian Hoener Zu Siederdissen](http://www.tbi.univie.ac.at/~choener/),
-  [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html).
+  [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html)
 
 - Monadic Combinators for "Putback" Style Bidirectional Programming.   
   ([preprint](http://www.prg.nii.ac.jp/members/hpacheco/publications/pepm14.pdf))  
   [Hugo Pacheco](http://www.prg.nii.ac.jp/members/hpacheco/),
   [Zhenjiang Hu](http://research.nii.ac.jp/~hu/),
-  [Sebastian Fischer](http://www-ps.informatik.uni-kiel.de/~sebf/).
+  [Sebastian Fischer](http://www-ps.informatik.uni-kiel.de/~sebf/)
 
 - Effective Quotation.   
   ([arxiv](http://arxiv.org/abs/1310.4780.pdf))  
   [James Cheney](http://homepages.inf.ed.ac.uk/jcheney/),
   [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/),
   Gabriel Radanne,
-  [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/).
+  [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/)
 
 - Compile-time Reflection and Metaprogramming for Java.   
   (no preprint found)  
   Weiyu Miao,
-  [Jeremy Siek](http://homes.soic.indiana.edu/jsiek/).
+  [Jeremy Siek](http://homes.soic.indiana.edu/jsiek/)
 
 - Combinators for Impure yet Hygienic Code Generation.   
   (no preprint found)  
   [Yukiyoshi Kameyama](http://logic.cs.tsukuba.ac.jp/~kam/),
   [Oleg Kiselyov](http://okmij.org/ftp/),
-  [Chung-Chieh Shan](https://www.cs.rutgers.edu/~ccshan/).
+  [Chung-Chieh Shan](https://www.cs.rutgers.edu/~ccshan/)
 
 - Automating Property-based Testing of Evolving Web Services.   
   ([preprint](http://www.cs.kent.ac.uk/people/staff/sjt/Prowess/ws_testing.pdf))  
   [Huiqing Li](http://www.cs.kent.ac.uk/people/staff/hl/),
   [Simon Thompson](http://www.cs.kent.ac.uk/people/staff/sjt/),
   [Pablo Lamela Seijas](https://www.cs.kent.ac.uk/people/rpg/pl240/),
-  Miguel Angel Francisco.
+  Miguel Angel Francisco
 
 - Deriving Interpretations of the Gradually-Typed Lambda Calculus.   
   ([preprint](http://ilyasergey.net/papers/gradual-pepm14.pdf)),  
   [Álvaro Garca-Prez](http://software.imdea.org/people/alvaro.garcia.perez/),
   [Pablo Nogueira](http://babel.ls.fi.upm.es/~pablo/),
-  [Ilya Sergey](http://ilyasergey.net/).
+  [Ilya Sergey](http://ilyasergey.net/)
 
 - HIPimm: Verifying Granular Immutability Guarantees.   
   ([preprint](http://www.comp.nus.edu.sg/~asankhs/pdf/HIPimm.pdf))  
   [Andreea Costea](http://www.comp.nus.edu.sg/~andreeac/),
   [Asankhaya Sharma](http://www.comp.nus.edu.sg/~asankhs/),
-  [Cristina David](http://www.cs.ox.ac.uk/people/cristina.david/).
+  [Cristina David](http://www.cs.ox.ac.uk/people/cristina.david/)
 
 - A Modular and Generic Analysis Server System for Functional Logic Programs.   
   (no preprint found)
   ([similar](http://arxiv.org/abs/1307.4648)),  
   [Michael Hanus](http://www.informatik.uni-kiel.de/~mh/),
-  [Fabian Skrlac](http://www.informatik.uni-kiel.de/en/programming-languages-and-compiler-construction/mitarbeiter/fabian-reck/).
+  [Fabian Skrlac](http://www.informatik.uni-kiel.de/en/programming-languages-and-compiler-construction/mitarbeiter/fabian-reck/)
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
   (no preprint found)  
   [Pedro Martins](http://wiki.di.uminho.pt/twiki/bin/view/Personal/PedroMartins/),
   [João Paulo Fernandes](http://alfa.di.uminho.pt/~jpaulo/),
   [João Saraiva](http://www3.di.uminho.pt/~jas/),
-  [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/).
+  [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/)
 
 ### PLPV
 
 - Programming Languages for High-Assurance Autonomous Vehicles.   
   (no preprint found)  
-  [Lee Pike](http://www.cs.indiana.edu/~lepike/).
+  [Lee Pike](http://www.cs.indiana.edu/~lepike/)
 
 - The Recursive Polarized Dual Calculus.   
   ([preprint](http://homepage.cs.uiowa.edu/~astump/papers/rpdc-plpv14.pdf))  
-  [Aaron Stump](http://www.cs.uiowa.edu/~astump).
+  [Aaron Stump](http://www.cs.uiowa.edu/~astump)
 
 - Substructural Typestates.   
   ([preprint](https://www.cs.cmu.edu/~foliveir/papers/plpv14-paper.pdf))  
   [Filipe Militao](https://www.cs.cmu.edu/~foliveir/),
   [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/),
-  [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/).
+  [Luis Caires](http://ctp.di.fct.unl.pt/~lcaires/)
 
 - Refinement Types For Haskell.   
   (no preprint found)  
-  [Ranjit Jhala](http://goto.ucsd.edu/~rjhala/).
+  [Ranjit Jhala](http://goto.ucsd.edu/~rjhala/)
 
 - Verified Programs with Binders.   
   ([preprint](http://hal.inria.fr/docs/00/91/34/31/PDF/plpv03-clochard.pdf))  
   [Martin Clochard](https://www.lri.fr/~clochard/),
   [Claude Marché](http://www.lri.fr/~marche/),
-  [Andrei Paskevich](http://tertium.org/).
+  [Andrei Paskevich](http://tertium.org/)
 
 - Formalizing a Correctness Property of a Type-Directed Partial Evaluator.   
   (no preprint found)  
   Noriko Hirota,
-  [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai).
+  [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai)
 
 - An Abstract Categorical Semantics for Functional Reactive Programming with Processes.   
   (no preprint found)  
-  [Wolfgang Jeltsch](http://wolfgang.jeltsch.info/).
+  [Wolfgang Jeltsch](http://wolfgang.jeltsch.info/)
 
 ### VMCAI
 
 - Practical Floating-Point Tests with Integer Code.   
   (no preprint found)  
-  Anthony Romano.
+  Anthony Romano
 
 - Weakest Precondition Synthesis for Compiler Optimizations.   
   ([abstract](http://web.ist.utl.pt/nuno.lopes/pubs.php?id=psyco-vmcai14))
