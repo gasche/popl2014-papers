@@ -547,7 +547,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   (no preprint found)
   ([similar](http://arxiv.org/abs/1307.4648)),  
   [Michael Hanus](http://www.informatik.uni-kiel.de/~mh/),
-  Fabian Skrlac.
+  [Fabian Skrlac](http://www.informatik.uni-kiel.de/en/programming-languages-and-compiler-construction/mitarbeiter/fabian-reck/).
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
   (no preprint found)  
