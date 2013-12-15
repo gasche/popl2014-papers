@@ -291,8 +291,8 @@ add a line break after each link.
   ([webpage](http://bentnib.org/conservation-laws.html)),  
   [R. Atkey](http://bentnib.org/)
 
-- Polymorphic Functions with Set-Theoretic Types (Part 1: Syntax, Semantics, and Evaluation). 
-  ([preprint](http://www.pps.univ-paris-diderot.fr/~gc/papers/polydeuces-part1.pdf))
+- Polymorphic Functions with Set-Theoretic Types (Part 1: Syntax, Semantics, and Evaluation).   
+  ([preprint](http://www.pps.univ-paris-diderot.fr/~gc/papers/polydeuces-part1.pdf))  
   [G. Castagna](http://www.pps.univ-paris-diderot.fr/~gc/),
   [K. Nguyễn](https://www.lri.fr/~kn/),
   [Z. Xu](http://www.pps.univ-paris-diderot.fr/~zhiwu/),
