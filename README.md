@@ -10,7 +10,7 @@ add a line break after each link.
 
 (See [here](https://github.com/gasche/icfp2013-papers) for a similar page for ICFP'13)
 
-## POPL
+## POPL-2014
 
 
 - Sound Compilation of Reals.   
@@ -367,7 +367,7 @@ add a line break after each link.
 affiliated events, even if you don't have much preprint links, when
 they become available.)
 
-### PADL
+### PADL-2014
 
 The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2014/papers.html).
 
@@ -452,7 +452,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [José Pedro Magalhães](http://dreixel.net/),
   [Andres Löh](http://www.andres-loeh.de/)
 
-### PEPM
+### PEPM-2014
 
 - Semantic Bidirectionalization Revisited.   
   (no preprint found)  
@@ -556,7 +556,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [João Saraiva](http://www3.di.uminho.pt/~jas/),
   [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/)
 
-### PLPV
+### PLPV-2014
 
 - Programming Languages for High-Assurance Autonomous Vehicles.   
   (no preprint found)  
@@ -591,7 +591,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   (no preprint found)  
   [Wolfgang Jeltsch](http://wolfgang.jeltsch.info/)
 
-### VMCAI
+### VMCAI-2014
 
 - Practical Floating-Point Tests with Integer Code.   
   (no preprint found)  
