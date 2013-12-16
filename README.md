@@ -40,7 +40,7 @@ add a line break after each link.
   [M. Rinard](http://people.csail.mit.edu/rinard/)
 
 - Abstract Acceleration of General Linear Loops.   
-  ([arxiv](http://arxiv.org/pdf/1311.0768.pdf)),  
+  ([arxiv](http://arxiv.org/abs/1311.0768)),  
   [B. Jeannet](http://pop-art.inrialpes.fr/~bjeannet/),
   [P. Schrammel](http://www.cs.ox.ac.uk/people/peter.schrammel/),
   [S. Sankaranarayanan](http://www.cs.colorado.edu/~srirams/)
@@ -240,7 +240,7 @@ add a line break after each link.
   [M. Chechik](http://www.cs.toronto.edu/~chechik/)
 
 - Applying quantitative semantics to higher-order quantum computing.   
-  ([arxiv](http://arxiv.org/abs/1311.2290.pdf)),  
+  ([arxiv](http://arxiv.org/abs/1311.2290)),  
   [M. Pagani](https://www-lipn.univ-paris13.fr/~pagani/),
   [P. Selinger](http://www.mathstat.dal.ca/~selinger/),
   [B. Valiron](http://www.monoidal.net/)
@@ -476,7 +476,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Fausto Spoto](http://profs.sci.univr.it/~spoto/)
 
 - QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and Efficient Coroutines.   
-  ([arxiv](http://arxiv.org/abs/1310.3404.pdf))  
+  ([arxiv](http://arxiv.org/abs/1310.3404))  
   [Gabriel Kerneis](http://gabriel.kerneis.info/),
   Charlie Shepherd,
   [Stefan Hajnoczi](http://blog.vmsplice.net/)
@@ -507,7 +507,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Sebastian Fischer](http://www-ps.informatik.uni-kiel.de/~sebf/)
 
 - Effective Quotation.   
-  ([arxiv](http://arxiv.org/abs/1310.4780.pdf))  
+  ([arxiv](http://arxiv.org/abs/1310.4780))  
   [James Cheney](http://homepages.inf.ed.ac.uk/jcheney/),
   [Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/),
   Gabriel Radanne,
@@ -634,7 +634,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Jens Chr. Godskesen](http://www.itu.dk/people/jcg)
 
 - Doomsday Equilibria for Omega-Regular Games.   
-  ([arxiv](http://arxiv.org/abs/1311.3238.pdf))  
+  ([arxiv](http://arxiv.org/abs/1311.3238))  
   [Krishnendu Chatterjee](http://pub.ist.ac.at/~kchatterjee/),
   [Laurent Doyen](http://www.lsv.ens-cachan.fr/~doyen/),
   [Emmanuel Filiot](http://www.ulb.ac.be/di/ssd/filiot),
@@ -651,7 +651,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Björn Lisper](http://www.idt.mdh.se/~blr/)
 
 - Parameterized Model Checking of Token-Passing Systems.   
-  ([arxiv](http://arxiv.org/abs/1311.4425.pdf))  
+  ([arxiv](http://arxiv.org/abs/1311.4425))  
   Benjamin Aminof, Swen Jacobs, Ayrat Khalimov, Sasha Rubin
 
 - Generic Combination of Heap and Value Analyses in Abstract Interpretation.   
@@ -695,7 +695,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Hadas Kress-Gazit](http://web.mae.cornell.edu/hadaskg/)
 
 - Synthesis for Polynomial Lasso Programs.   
-  ([arxiv](http://arxiv.org/abs/1311.4046.pdf))  
+  ([arxiv](http://arxiv.org/abs/1311.4046))  
   Jan Leike,
   [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/)
 
