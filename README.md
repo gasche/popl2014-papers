@@ -497,7 +497,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
 - The HERMIT in the Stream.   
   ([preprint](http://www.ittc.ku.edu/~afarmer/concatmap-pepm14.pdf))  
   [Andrew Farmer](http://andrewfarmer.name/),
-  [Christian Hoener Zu Siederdissen](http://www.tbi.univie.ac.at/~choener/),
+  [Christian Hoener zu Siederdissen](http://www.tbi.univie.ac.at/~choener/),
   [Andy Gill](http://www.ittc.ku.edu/csdl/fpg/users/andygill.html)
 
 - Monadic Combinators for "Putback" Style Bidirectional Programming.   
