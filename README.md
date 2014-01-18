@@ -10,6 +10,16 @@ add a line break after each link.
 
 (See [here](https://github.com/gasche/icfp2013-papers) for a similar page for ICFP'13)
 
+### Edit
+
+As of late January 2014, the official POPL proceedings are publicly
+available for download from [the POPL
+website](http://popl.mpi-sws.org/2014/). This is a truly excellent
+initiative. We can only hope they will remain available in the future,
+and similar miracles will happen for the next editions of this
+conference. Thanks!
+
+
 ## POPL-2014
 
 
