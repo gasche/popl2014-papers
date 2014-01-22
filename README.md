@@ -211,7 +211,8 @@ conference. Thanks!
   [N. Swamy](https://research.microsoft.com/en-us/people/nswamy/)
 
 - Fair Reactive Programming.   
-  ([preprint](http://cs.mcgill.ca/~acave1/papers/fair-reactive.pdf)),  
+  ([preprint](http://cs.mcgill.ca/~acave1/papers/fair-reactive.pdf))
+  ([long version](http://cs.mcgill.ca/~acave1/papers/fair-reactive-long.pdf)),  
   [A. Cave](http://cs.mcgill.ca/~acave1),
   [F. Ferreira](http://cs.mcgill.ca/~fferre8/),
   [P. Panangaden](http://www.cs.mcgill.ca/~prakash/),
