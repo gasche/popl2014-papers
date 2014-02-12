@@ -422,7 +422,8 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Ferdinando Fioretto](http://www.cs.nmsu.edu/~ffiorett/),
   [Enrico Pontelli](http://www.cs.nmsu.edu/~epontell/)
 
-- On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.    
+- On the Correctness and Efficiency of Lock-Free Expandable Tries for Tabled Logic Programs.   
+  ([preprint](http://www.dcc.fc.up.pt/~ricroc/homepage/publications/2014-PADL.pdf))
   Miguel Areias,
   [Ricardo Rocha](http://www.dcc.fc.up.pt/~ricroc/)
 
@@ -525,7 +526,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/)
 
 - Compile-time Reflection and Metaprogramming for Java.   
-  (no preprint found)  
+  ([preprint](http://wphomes.soic.indiana.edu/jsiek/files/2013/06/ctrmj.pdf))  
   Weiyu Miao,
   [Jeremy Siek](http://homes.soic.indiana.edu/jsiek/)
 
@@ -561,7 +562,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Fabian Skrlac](http://www.informatik.uni-kiel.de/en/programming-languages-and-compiler-construction/mitarbeiter/fabian-reck/)
 
 - Generating attribute grammar-based bidirectional transformations from rewrite-rules.   
-  (no preprint found)  
+  ([preprint](http://haskell.di.uminho.pt/~pedro.martins/papers/pepm2014.pdf))  
   [Pedro Martins](http://wiki.di.uminho.pt/twiki/bin/view/Personal/PedroMartins/),
   [João Paulo Fernandes](http://alfa.di.uminho.pt/~jpaulo/),
   [João Saraiva](http://www3.di.uminho.pt/~jas/),
@@ -652,7 +653,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Jean-Francois Raskin](http://www.ulb.ac.be/di/ssd/jfr)
 
 - Policy Iteration-based Conditional Termination and Ranking Functions.   
-  (no preprint found)  
+  ([preprint](http://hal.archives-ouvertes.fr/docs/00/91/90/68/PDF/paper_36.pdf))  
   [Damien Massé](http://lab-sticc.univ-brest.fr/~dmasse/)
 
 - Timing Analysis of Parallel Software Using Abstract Execution.   
@@ -665,7 +666,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   ([arxiv](http://arxiv.org/abs/1311.4425))  
   Benjamin Aminof, Swen Jacobs, Ayrat Khalimov, Sasha Rubin
 
-- Generic Combination of Heap and Value Analyses in Abstract Interpretation.   
+- Generic Combination of Heap and Value Analysis in Abstract Interpretation.   
   (no preprint found)  
   [Pietro Ferrara](http://www.pietro.ferrara.name/)
 
@@ -677,14 +678,14 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Maurizio Proietti](http://www.iasi.cnr.it/~proietti/)
 
 - A Logic-based Framework for Verifying Consensus Algorithms.   
-  (no preprint found)  
+  ([preprint](http://forsyte.at/wp-content/uploads/dragoi-vmcai14.pdf))  
   [Cezara Dragoi](http://pub.ist.ac.at/~cezarad/),
   [Thomas A. Henzinger](http://pub.ist.ac.at/~tah/),
   Helmut Veith, Josef Widder,
   [Damien Zufferey](http://pub.ist.ac.at/~zufferey/)
 
 - Relational Thread-Modular Static Value Analysis by Abstract Interpretation.   
-  (no preprint found)  
+  ([preprint](http://hal.archives-ouvertes.fr/docs/00/92/57/13/PDF/article_ok.pdf))  
   [Antoine Miné](http://www.di.ens.fr/~mine/)
 
 - Modular Synthesis of Sketches using Models.   
@@ -693,7 +694,7 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   [Armando Solar-Lezama](http://people.csail.mit.edu/asolar/)
 
 - Widening for Control-Flow.   
-  (no preprint found)  
+  ([preprint](https://www.cs.ucsb.edu/~benh/research/papers/hardekopf14widening.pdf))  
   [Ben Hardekopf](http://www.cs.ucsb.edu/~benh),
   [Ben Wiedermann](http://www.cs.hmc.edu/~benw/),
   [Berkeley Churchill](http://www.berkeleychurchill.com/),
@@ -728,12 +729,12 @@ The list of accepted papers is available [here](http://www.ist.unomaha.edu/padl2
   Anne Siegel
 
 - Message Passing Algorithms for the Verification of Distributed Protocols.   
-  (no preprint found)  
+  ([preprint](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/JE-vmcai14.pdf))  
   [Loig Jezequel](http://www7.in.tum.de/~jezequel/index2.html),
   [Javier Esparza](http://www7.in.tum.de/~esparza)
 
 - Modularly Combining Numeric Abstract Domains with Points-to Analysis, and a Scalable Static Numeric Analyzer for Java.   
-  (no preprint found)  
+  ([preprint](http://hal.archives-ouvertes.fr/docs/00/92/16/96/PDF/nump_vmcai14_zfu.pdf))  
   Zhoulai Fu
 
 - Cascade 2.0 (Tool Paper).   
